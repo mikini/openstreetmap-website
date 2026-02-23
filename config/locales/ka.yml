@@ -696,20 +696,21 @@ ka:
   layouts:
     logo:
       alt_text: OpenStreetMap-ის ლოგო
-    home: საწყის ადგილზე დაბრუნება
-    logout: გასვლა
-    log_in: შესვლა
-    sign_up: რეგისტრაცია
-    edit: რედაქტირება
-    history: ისტორია
-    export: ექსპორტი
-    gps_traces: GPS გზები
-    user_diaries: მომხმარებლების დღიურები
-    edit_with: რედაქტირება %{editor}
     partners_partners: პარტნიორები
-    help: დახმარება
-    copyright: საავტორო უფლები
-    more: მეტი
+    header:
+      copyright: საავტორო უფლები
+      edit: რედაქტირება
+      edit_with: რედაქტირება %{editor}
+      export: ექსპორტი
+      gps_traces: GPS გზები
+      help: დახმარება
+      history: ისტორია
+      home: საწყის ადგილზე დაბრუნება
+      log_out: გასვლა
+      log_in: შესვლა
+      more: მეტი
+      sign_up: რეგისტრაცია
+      user_diaries: მომხმარებლების დღიურები
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap]-ის მომხმარებელმა %{user} თქვენს დღიურში დატოვა კომენტარი'

@@ -1614,18 +1614,7 @@ ce:
   layouts:
     logo:
       alt_text: OpenStreetMap-ан логотип
-    home: ЦӀа дӀагӀо
-    logout: Болх дӀаберзор
-    log_in: ЧугӀо
-    sign_up: ДӀайаздалар
     start_mapping: Карт дила волаво
-    edit: Нисдар
-    history: Истори
-    export: Экспорт
-    issues: Проблемаш
-    gps_traces: GPS-трекаш
-    user_diaries: Декъашхочун дневник
-    edit_with: Нисйе кхуьнца %{editor}
     intro_header: Марша вогӀийла хьо OpenStreetMap!
     intro_text: OpenStreetMap — дуьненан карта ду, хьо санна болчу наха кхоьллина,
       ткъа хIара маьрша лело йиш йу йиллина лицензица.
@@ -1635,12 +1624,24 @@ ce:
     partners_partners: Партнёраш
     tou: Лелоран биллам
     nothing_to_preview: Хьалххе хьажа хӀумма а дац.
-    help: ГӀо
-    about: Проектах лаьцна
-    copyright: Авторийн бакъонаш
-    communities: Тобаш
     learn_more: Цул совнаха хаа
-    more: Кхин а
+    header:
+      about: Проектах лаьцна
+      communities: Тобаш
+      copyright: Авторийн бакъонаш
+      edit: Нисдар
+      edit_with: Нисйе кхуьнца %{editor}
+      export: Экспорт
+      gps_traces: GPS-трекаш
+      help: ГӀо
+      history: Истори
+      home: ЦӀа дӀагӀо
+      issues: Проблемаш
+      log_out: Болх дӀаберзор
+      log_in: ЧугӀо
+      more: Кхин а
+      sign_up: ДӀайаздалар
+      user_diaries: Декъашхочун дневник
   user_mailer:
     diary_comment_notification:
       description: 'OpenStreetMap Тептар Чувалар #%{id}'

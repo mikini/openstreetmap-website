@@ -1895,18 +1895,7 @@ be-Tarask:
     logo:
       alt_text: Ляґатып OpenStreetMap
     layer_info: Пра пласт
-    home: Перайсьці дамоў
-    logout: Выйсьці
-    log_in: Увайсьці
-    sign_up: Рэґістрацыя
     start_mapping: Пачаць мапіць
-    edit: Рэдагаваць
-    history: Гісторыя
-    export: Экспарт
-    issues: Праблемы
-    gps_traces: GPS-трэкі
-    user_diaries: Дзёньнікі
-    edit_with: Рэдагаваць праз %{editor}
     intro_header: Сардэчна запрашаем у OpenStreetMap!
     intro_text: OpenStreetMap — мапа сьвету, ствараецца людзьмі як вы, вольная для
       ўжываньня, з адкрытай ліцэнзыяй.
@@ -1916,16 +1905,27 @@ be-Tarask:
     partners_partners: партнэрамі
     tou: Умовы ўжываньня
     nothing_to_preview: Няма чаго паказываць.
-    help: Дапамога
-    about: Пра праект
-    copyright: Аўтарства
-    communities: Супольнасьці
-    donate_link: Ахвяраваць
     learn_more: Даведацца болей
-    more: Яшчэ
     header:
-      select_language: Выбар мовы
+      about: Пра праект
+      communities: Супольнасьці
+      copyright: Аўтарства
+      donate: Ахвяраваць
+      edit: Рэдагаваць
+      edit_with: Рэдагаваць праз %{editor}
+      export: Экспарт
+      gps_traces: GPS-трэкі
+      help: Дапамога
+      history: Гісторыя
+      home: Перайсьці дамоў
+      issues: Праблемы
       loading: Ладаваньне...
+      log_out: Выйсьці
+      log_in: Увайсьці
+      more: Яшчэ
+      select_language: Выбар мовы
+      sign_up: Рэґістрацыя
+      user_diaries: Дзёньнікі
     meta:
       openstreetmap_search: Пошук OpenStreetMap
     select_language_button:

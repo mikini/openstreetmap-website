@@ -1658,18 +1658,7 @@ ja:
   layouts:
     logo:
       alt_text: OpenStreetMap ロゴ
-    home: ホーム地点に移動
-    logout: ログアウト
-    log_in: ログイン
-    sign_up: 利用者登録
     start_mapping: マッピングを開始
-    edit: 編集
-    history: 履歴
-    export: エクスポート
-    issues: 問題点
-    gps_traces: GPSトレース
-    user_diaries: 利用者の日記
-    edit_with: '%{editor} で編集'
     intro_header: OpenStreetMap へようこそ！
     intro_text: OpenStreetMap は、あなたのような人々が作成する世界地図であり、オープンなライセンスの下で自由に利用できます。
     hosting_partners_2024_html: ホスティングは %{fastly} 、 %{corpmembers} 、そしてその他の %{partners}
@@ -1678,14 +1667,25 @@ ja:
     partners_partners: パートナー
     tou: 利用規約
     nothing_to_preview: プレビューするものはありません。
-    help: ヘルプ
-    about: このサイトについて
-    copyright: 著作権
-    communities: コミュニティ
     learn_more: 詳細
-    more: その他
     header:
+      about: このサイトについて
+      communities: コミュニティ
+      copyright: 著作権
+      edit: 編集
+      edit_with: '%{editor} で編集'
+      export: エクスポート
+      gps_traces: GPSトレース
+      help: ヘルプ
+      history: 履歴
+      home: ホーム地点に移動
+      issues: 問題点
+      log_out: ログアウト
+      log_in: ログイン
+      more: その他
       select_language: 言語を選択
+      sign_up: 利用者登録
+      user_diaries: 利用者の日記
     select_language_button:
       title: 言語を選択
   user_mailer:

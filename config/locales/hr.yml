@@ -1236,7 +1236,7 @@ hr:
           sports_centre: Sportski centar
           stadium: Stadion
           swimming_pool: Bazen
-          track: Staza za trčanje
+          track: Trkačka staza (ne motociklistička)
           water_park: Vodeni park
           "yes": Slobodno vrijeme
         lock:
@@ -1914,18 +1914,7 @@ hr:
     logo:
       alt_text: OpenStreetMap logotip
     layer_info: Informacije o sloju
-    home: Pokaži moju lokaciju stanovanja
-    logout: Odjavite se
-    log_in: Prijavite se
-    sign_up: Registrirajte se
     start_mapping: Počnite kartirati
-    edit: Uredi
-    history: Povijest
-    export: Izvoz
-    issues: Problemi
-    gps_traces: GNSS tragovi
-    user_diaries: Korisnički dnevnici
-    edit_with: Uredi pomoću %{editor}
     intro_header: Dobrodošli na OpenStreetMap!
     intro_text: OpenStreetMap je karta svijeta, koju su stvorili ljudi kao vi i može
       se slobodno koristiti pod licencom otvorenog koda (ODbL).
@@ -1935,16 +1924,27 @@ hr:
     partners_partners: partneri
     tou: Uvjeti uporabe
     nothing_to_preview: Nema ništa za pregled.
-    help: Pomoć
-    about: O projektu
-    copyright: Autorska prava
-    communities: Zajednice
-    donate_link: Doniraj
     learn_more: Saznajte više
-    more: Više
     header:
-      select_language: Izaberite jezik
+      about: O projektu
+      communities: Zajednice
+      copyright: Autorska prava
+      donate: Doniraj
+      edit: Uredi
+      edit_with: Uredi pomoću %{editor}
+      export: Izvoz
+      gps_traces: GNSS tragovi
+      help: Pomoć
+      history: Povijest
+      home: Pokaži moju lokaciju stanovanja
+      issues: Problemi
       loading: Učitavanje...
+      log_out: Odjavite se
+      log_in: Prijavite se
+      more: Više
+      select_language: Izaberite jezik
+      sign_up: Registrirajte se
+      user_diaries: Korisnički dnevnici
     meta:
       openstreetmap_search: Pretraživanje OpenStreetMapa
     select_language_button:

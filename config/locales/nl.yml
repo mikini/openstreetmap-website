@@ -1277,7 +1277,7 @@ nl:
           sports_centre: Sportcentrum
           stadium: Stadion
           swimming_pool: Zwembad
-          track: Renbaan
+          track: Renbaan (niet voor motorsport)
           water_park: Waterspeelpark
           "yes": Recreatie
         lock:
@@ -1955,18 +1955,7 @@ nl:
     logo:
       alt_text: Logo OpenStreetMap
     layer_info: Laaginformatie
-    home: Naar thuislocatie gaan
-    logout: Afmelden
-    log_in: Aanmelden
-    sign_up: Registreren
     start_mapping: Begin met mappen
-    edit: Bewerken
-    history: Geschiedenis
-    export: Exporteren
-    issues: Problemen
-    gps_traces: Gps-trajecten
-    user_diaries: Gebruikersdagboeken
-    edit_with: Bewerken met %{editor}
     intro_header: Welkom bij OpenStreetMap!
     intro_text: OpenStreetMap is een kaart van de wereld, gemaakt door mensen zoals
       u en vrij te gebruiken onder een open licentie.
@@ -1976,16 +1965,27 @@ nl:
     partners_partners: partners
     tou: Gebruiksvoorwaarden
     nothing_to_preview: Er is geen voorvertoning.
-    help: Hulp
-    about: Over
-    copyright: Auteursrechten
-    communities: Gemeenschappen
-    donate_link: Doneren
     learn_more: Meer lezen
-    more: Meer
     header:
-      select_language: Taal selecteren
+      about: Over
+      communities: Gemeenschappen
+      copyright: Auteursrechten
+      donate: Doneren
+      edit: Bewerken
+      edit_with: Bewerken met %{editor}
+      export: Exporteren
+      gps_traces: Gps-trajecten
+      help: Hulp
+      history: Geschiedenis
+      home: Naar thuislocatie gaan
+      issues: Problemen
       loading: Aan het laden…
+      log_out: Afmelden
+      log_in: Aanmelden
+      more: Meer
+      select_language: Taal selecteren
+      sign_up: Registreren
+      user_diaries: Gebruikersdagboeken
     meta:
       openstreetmap_search: OpenStreetMap Zoeken
     select_language_button:

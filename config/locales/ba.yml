@@ -1503,18 +1503,7 @@ ba:
   layouts:
     logo:
       alt_text: OpenStreetMap логотибы
-    home: Төп урынға күсеү
-    logout: Сығыу
-    log_in: Инеү
-    sign_up: Теркәлеү
     start_mapping: Карталауҙы башлау
-    edit: Үҙгәртеү
-    history: Тарих
-    export: Экспорт
-    issues: Проблемалар
-    gps_traces: GPS-тректар
-    user_diaries: Ҡулланыусылар көндәлектәре
-    edit_with: '%{editor} менән мөхәррирләү'
     intro_header: OpenStreetMap-ҡа рәхим итегеҙ!
     intro_text: OpenStreetMap — был донъя картаһы, ул һеҙҙең кеүек кешеләр тарафынан
       төҙөлә һәм асыҡ лицензия аҫтында ирекле ҡулланыу өсөн тәғәйенләнгән.
@@ -1524,12 +1513,24 @@ ba:
     partners_partners: партнерҙары
     tou: Ҡулланыу шарттары
     nothing_to_preview: Күрһәтерлек бер нәмә лә юҡ.
-    help: Ярҙам
-    about: Тураһында
-    copyright: Авторлыҡ хоҡуҡтары
-    communities: Берләшмәләр
     learn_more: Тулыраҡ белергә
-    more: Тағы
+    header:
+      about: Тураһында
+      communities: Берләшмәләр
+      copyright: Авторлыҡ хоҡуҡтары
+      edit: Үҙгәртеү
+      edit_with: '%{editor} менән мөхәррирләү'
+      export: Экспорт
+      gps_traces: GPS-тректар
+      help: Ярҙам
+      history: Тарих
+      home: Төп урынға күсеү
+      issues: Проблемалар
+      log_out: Сығыу
+      log_in: Инеү
+      more: Тағы
+      sign_up: Теркәлеү
+      user_diaries: Ҡулланыусылар көндәлектәре
   user_mailer:
     diary_comment_notification:
       description: OpenStreetMap көндәлек яҙмаһы №%{id}

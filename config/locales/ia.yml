@@ -1218,7 +1218,7 @@ ia:
           sports_centre: Centro sportive
           stadium: Stadio
           swimming_pool: Piscina
-          track: Pista de athletismo
+          track: Pista de cursa (non sport a motor)
           water_park: Parco aquatic
           "yes": Tempore libere
         lock:
@@ -1896,18 +1896,7 @@ ia:
     logo:
       alt_text: Logo de OpenStreetMap
     layer_info: Information sur le strato
-    home: Vader al loco de residentia
-    logout: Clauder session
-    log_in: Aperir session
-    sign_up: Crear conto
     start_mapping: Comenciar a cartographiar
-    edit: Modificar
-    history: Historia
-    export: Exportar
-    issues: Problemas
-    gps_traces: Tracias GPS
-    user_diaries: Diarios de usatores
-    edit_with: Modificar con %{editor}
     intro_header: Benvenite a OpenStreetMap!
     intro_text: OpenStreetMap es un carta del mundo, create per gente como tu e libere
       de usar sub un licentia aperte.
@@ -1917,16 +1906,27 @@ ia:
     partners_partners: partners
     tou: Conditiones de uso
     nothing_to_preview: Nihil a previsualisar.
-    help: Adjuta
-    about: A proposito
-    copyright: Derectos de autor
-    communities: Communitates
-    donate_link: Donar
     learn_more: Leger plus
-    more: Plus
     header:
-      select_language: Selige lingua
+      about: A proposito
+      communities: Communitates
+      copyright: Derectos de autor
+      donate: Donar
+      edit: Modificar
+      edit_with: Modificar con %{editor}
+      export: Exportar
+      gps_traces: Tracias GPS
+      help: Adjuta
+      history: Historia
+      home: Vader al loco de residentia
+      issues: Problemas
       loading: Cargamento in curso…
+      log_out: Clauder session
+      log_in: Aperir session
+      more: Plus
+      select_language: Selige lingua
+      sign_up: Crear conto
+      user_diaries: Diarios de usatores
     meta:
       openstreetmap_search: Cercar in OpenStreetMap
     select_language_button:

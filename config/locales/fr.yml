@@ -2039,18 +2039,7 @@ fr:
       title: OpenStreetMap
     logo:
       alt_text: Logo d’OpenStreetMap
-    home: Aller à l’emplacement de votre domicile
-    logout: Se déconnecter
-    log_in: Se connecter
-    sign_up: S’inscrire
     start_mapping: Commencer à cartographier
-    edit: Modifier
-    history: Historique
-    export: Exporter
-    issues: Problèmes
-    gps_traces: Traces GPS
-    user_diaries: Journaux des utilisateurs
-    edit_with: Modifier avec %{editor}
     intro_header: Bienvenue dans OpenStreetMap !
     intro_text: OpenStreetMap est une carte du monde, créée par des gens comme vous
       et libre d’utilisation sous licence libre.
@@ -2060,15 +2049,26 @@ fr:
     partners_partners: partenaires
     tou: Conditions d’utilisation
     nothing_to_preview: La prévisualisation est vide.
-    help: Aide
-    about: À propos
-    copyright: Droits d’auteur
-    communities: Communautés
     learn_more: En savoir plus
-    more: Plus
     header:
-      select_language: Sélectionnez la langue
+      about: À propos
+      communities: Communautés
+      copyright: Droits d’auteur
+      edit: Modifier
+      edit_with: Modifier avec %{editor}
+      export: Exporter
+      gps_traces: Traces GPS
+      help: Aide
+      history: Historique
+      home: Aller à l’emplacement de votre domicile
+      issues: Problèmes
       loading: Chargement...
+      log_out: Se déconnecter
+      log_in: Se connecter
+      more: Plus
+      select_language: Sélectionnez la langue
+      sign_up: S’inscrire
+      user_diaries: Journaux des utilisateurs
     select_language_button:
       title: Sélectionner la langue
     offline_flash:

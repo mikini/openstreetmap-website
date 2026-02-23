@@ -852,23 +852,24 @@ kk-cyrl:
   layouts:
     logo:
       alt_text: OpenStreetMap логотипі
-    logout: Шығу
-    log_in: Кіру
-    sign_up: Тіркелу
-    edit: Өңдеу
-    history: Тарих
-    export: Экспорттау
-    gps_traces: GPS бағдарлары
-    user_diaries: Қолданушылардың күнделіктері
-    edit_with: '%{editor} көмегімен өңдеу'
     intro_header: OpenStreetMap-ке қош келдіңіз!
     tou: Қолдану шарты
-    help: Анықтама
-    about: Жоба туралы
-    copyright: Авторлық құқықтар
-    communities: Қауымдастықтар
     learn_more: Көбірек білу
-    more: Мәзір
+    header:
+      about: Жоба туралы
+      communities: Қауымдастықтар
+      copyright: Авторлық құқықтар
+      edit: Өңдеу
+      edit_with: '%{editor} көмегімен өңдеу'
+      export: Экспорттау
+      gps_traces: GPS бағдарлары
+      help: Анықтама
+      history: Тарих
+      log_out: Шығу
+      log_in: Кіру
+      more: Мәзір
+      sign_up: Тіркелу
+      user_diaries: Қолданушылардың күнделіктері
   user_mailer:
     diary_comment_notification:
       hi: Сәлеметсіз бе, %{to_user},

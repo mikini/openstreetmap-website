@@ -269,6 +269,8 @@ lv:
           Domēnā.
       terms_of_use:
         heading: Lietošanas noteikumi
+        review: Pārskatiet noteikumus
+        review_and_accept: Pārskatiet un pieņemiet noteikumus
       save changes button: Saglabāt izmaiņas
       delete_account: Dzēst kontu...
     go_public:
@@ -971,6 +973,7 @@ lv:
           wreck: Vraks
           "yes": Vēsturiska vieta
         information:
+          board: Informācijas dēlis
           map: Karte
           office: Tūrisma birojs
           terminal: Informācijas terminālis
@@ -1038,7 +1041,7 @@ lv:
           sports_centre: Sporta centrs
           stadium: Stadions
           swimming_pool: Peldbaseins
-          track: Skrejceļš
+          track: Sacīkšu trase (nemotorsportam)
           water_park: Ūdens atrakciju parks
           "yes": Atpūtas vieta
         lock:
@@ -1562,18 +1565,7 @@ lv:
     logo:
       alt_text: OpenStreetMap logo
     layer_info: Slāņa informācija
-    home: Doties uz mājas atrašanās vietu
-    logout: Iziet
-    log_in: Ieiet
-    sign_up: Reģistrēties
     start_mapping: Sākt Kartēt
-    edit: Labot
-    history: Vēsture
-    export: Eksportēt
-    issues: Problēmas
-    gps_traces: GPS trases
-    user_diaries: Lietotāju dienasgrāmatas
-    edit_with: Rediģēt ar %{editor}
     intro_header: Laipni lūdzam OpenStreetMap!
     intro_text: OpenStreetMap ir pasaules karte, kuru veido cilvēki kā tu, un tā ir
       bezmaksas lietošanai zem atvērtas licences.
@@ -1581,15 +1573,26 @@ lv:
     partners_partners: partneri
     tou: Lietošanas noteikumi
     nothing_to_preview: Nav nekas, ko priekšskatīt.
-    help: Palīdzība
-    about: Par
-    copyright: Autortiesības
-    communities: Kopienas
     learn_more: Uzzināt Vairāk
-    more: Vairāk
     header:
-      select_language: Izvēlieties valodu
+      about: Par
+      communities: Kopienas
+      copyright: Autortiesības
+      edit: Labot
+      edit_with: Rediģēt ar %{editor}
+      export: Eksportēt
+      gps_traces: GPS trases
+      help: Palīdzība
+      history: Vēsture
+      home: Doties uz mājas atrašanās vietu
+      issues: Problēmas
       loading: Notiek ielāde...
+      log_out: Iziet
+      log_in: Ieiet
+      more: Vairāk
+      select_language: Izvēlieties valodu
+      sign_up: Reģistrēties
+      user_diaries: Lietotāju dienasgrāmatas
     meta:
       openstreetmap_search: OpenStreetMap meklēšana
     select_language_button:

@@ -1976,18 +1976,7 @@ ga:
     logo:
       alt_text: Lógó OpenStreetMap
     layer_info: Eolas Sraithe
-    home: Gabh chuig an Suíomh Baile
-    logout: Logáil Amach
-    log_in: Logáil isteach
-    sign_up: Clárú
     start_mapping: Téigh i mbun Léarscáilithe
-    edit: Cuir in Eagar
-    history: Stair
-    export: Easpórtáil
-    issues: Fadhbanna
-    gps_traces: Loirg GPS
-    user_diaries: Dialanna Úsáideoirí
-    edit_with: Cuir in eagar le %{editor}
     intro_header: Fáilte go OpenStreetMap!
     intro_text: Is léarscáil den domhan é OpenStreetMap, a chruthaigh daoine cosúil
       leatsa agus atá saor in aisce le húsáid faoi cheadúnas oscailte.
@@ -1997,16 +1986,27 @@ ga:
     partners_partners: comhpháirtithe
     tou: Téarmaí Úsáide
     nothing_to_preview: Níl aon rud le réamhamharc.
-    help: Cabhair
-    about: Maidir linn
-    copyright: Cóipcheart
-    communities: Pobail
-    donate_link: Tabhair Síntiús
     learn_more: Tuilleadh Eolais
-    more: Tuilleadh
     header:
-      select_language: Roghnaigh Teanga
+      about: Maidir linn
+      communities: Pobail
+      copyright: Cóipcheart
+      donate: Tabhair Síntiús
+      edit: Cuir in Eagar
+      edit_with: Cuir in eagar le %{editor}
+      export: Easpórtáil
+      gps_traces: Loirg GPS
+      help: Cabhair
+      history: Stair
+      home: Gabh chuig an Suíomh Baile
+      issues: Fadhbanna
       loading: Ag lódáil...
+      log_out: Logáil Amach
+      log_in: Logáil isteach
+      more: Tuilleadh
+      select_language: Roghnaigh Teanga
+      sign_up: Clárú
+      user_diaries: Dialanna Úsáideoirí
     meta:
       openstreetmap_search: Cuardach OpenStreetMap
     select_language_button:

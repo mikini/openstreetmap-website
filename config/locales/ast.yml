@@ -1155,28 +1155,29 @@ ast:
   layouts:
     logo:
       alt_text: Logo d'OpenStreetMap
-    home: Dir al llugar d'entamu
-    logout: Salir
-    log_in: Aniciar sesión
-    sign_up: Rexistrase
     start_mapping: Comenzar a mapiar
-    edit: Editar
-    history: Historial
-    export: Esportar
-    issues: Problemes
-    gps_traces: Traces GPS
-    user_diaries: Diarios d'usuariu
-    edit_with: Editar con %{editor}
     intro_header: ¡Afáyate n'OpenStreetMap!
     intro_text: OpenStreetMap ye un mapa del mundu, creáu por persones como tu y d'usu
       llibre baxo una llicencia abierta.
     partners_partners: asociaos
     tou: Condiciones d'usu
-    help: Ayuda
-    about: Tocante a
-    copyright: Drechos d'autor
     learn_more: Más información
-    more: Más
+    header:
+      about: Tocante a
+      copyright: Drechos d'autor
+      edit: Editar
+      edit_with: Editar con %{editor}
+      export: Esportar
+      gps_traces: Traces GPS
+      help: Ayuda
+      history: Historial
+      home: Dir al llugar d'entamu
+      issues: Problemes
+      log_out: Salir
+      log_in: Aniciar sesión
+      more: Más
+      sign_up: Rexistrase
+      user_diaries: Diarios d'usuariu
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} comentó n''una entrada del diariu'

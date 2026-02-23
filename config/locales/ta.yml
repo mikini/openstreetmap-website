@@ -562,15 +562,16 @@ ta:
           spam_label: இந்தக் குறிப்பு ஒரு எரிதம்
           personal_label: இந்தக் குறிப்பில் தனிநபர் தகவல்கள் உள்ளன
   layouts:
-    home: முகப்பு
-    logout: விடுபதிகை
-    log_in: புகுபதிகை
-    edit: தொகு
-    history: வரலாறு
-    help: உதவி
-    copyright: பதிப்புரிமை
     learn_more: மேலும் அறிய
-    more: மேலும்
+    header:
+      copyright: பதிப்புரிமை
+      edit: தொகு
+      help: உதவி
+      history: வரலாறு
+      home: முகப்பு
+      log_out: விடுபதிகை
+      log_in: புகுபதிகை
+      more: மேலும்
   user_mailer:
     email_confirm:
       greeting: வணக்கம்,

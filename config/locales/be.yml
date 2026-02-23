@@ -1606,18 +1606,7 @@ be:
   layouts:
     logo:
       alt_text: Лагатып OpenStreetMap
-    home: Дамоў
-    logout: Выйсці
-    log_in: Увайсці
-    sign_up: Зарэгістравацца
     start_mapping: Пачаць маляваць карту
-    edit: Правіць
-    history: Гісторыя
-    export: Экспарт
-    issues: Праблемы
-    gps_traces: GPS-сляды
-    user_diaries: Дзённікі карыстальнікаў
-    edit_with: Правіць з дапамогаю %{editor}
     intro_header: Вітаем у OpenStreetMap!
     intro_text: OpenStreetMap - гэта карта свету, створаная людзьмі, як вы, і бясплатная
       для выкарыстання на ўмовах адкрытай ліцэнзіі.
@@ -1626,12 +1615,24 @@ be:
     partners_corpmembers: Карпаратыўныя члены OSMF
     partners_partners: партнёры
     tou: Умовы карыстання
-    help: Даведка
-    about: Пра праект
-    copyright: Аўтарскае права
-    communities: Супольнасці
     learn_more: Даведацца больш
-    more: Больш падрабязна
+    header:
+      about: Пра праект
+      communities: Супольнасці
+      copyright: Аўтарскае права
+      edit: Правіць
+      edit_with: Правіць з дапамогаю %{editor}
+      export: Экспарт
+      gps_traces: GPS-сляды
+      help: Даведка
+      history: Гісторыя
+      home: Дамоў
+      issues: Праблемы
+      log_out: Выйсці
+      log_in: Увайсці
+      more: Больш падрабязна
+      sign_up: Зарэгістравацца
+      user_diaries: Дзённікі карыстальнікаў
   user_mailer:
     diary_comment_notification:
       description: 'Запіс у дзённіку OpenStreetMap #%{id}'

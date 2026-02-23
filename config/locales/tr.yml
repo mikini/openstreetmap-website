@@ -1932,18 +1932,7 @@ tr:
     logo:
       alt_text: OpenStreetMap logosu
     layer_info: Katman Bilgisi
-    home: Kendi Konumuna Git
-    logout: Oturumu Kapat
-    log_in: Oturum Aç
-    sign_up: Kaydol
     start_mapping: Haritacılığa Başla
-    edit: Düzenle
-    history: Geçmiş
-    export: Dışa Aktar
-    issues: Sorunlar
-    gps_traces: GPS İzleri
-    user_diaries: Kullanıcı Günlükleri
-    edit_with: '%{editor} kullanarak düzenle'
     intro_header: OpenStreetMap'e hoş geldiniz!
     intro_text: OpenStreetMap, gönüllülerin katkılarıyla hazırlanmış küresel bir dünya
       haritasıdır. Açık lisans kapsamında özgürce erişilebilir ve kullanılabilir.
@@ -1953,16 +1942,27 @@ tr:
     partners_partners: iş birlikçiler
     tou: Kullanım Şartları
     nothing_to_preview: Önizlenecek bir şey yok.
-    help: Yardım
-    about: Hakkında
-    copyright: Telif Hakkı
-    communities: Topluluklar
-    donate_link: Bağış Yap
     learn_more: Daha Fazla Bilgi
-    more: Daha fazla
     header:
-      select_language: Dil seçin
+      about: Hakkında
+      communities: Topluluklar
+      copyright: Telif Hakkı
+      donate: Bağış Yap
+      edit: Düzenle
+      edit_with: '%{editor} kullanarak düzenle'
+      export: Dışa Aktar
+      gps_traces: GPS İzleri
+      help: Yardım
+      history: Geçmiş
+      home: Kendi Konumuna Git
+      issues: Sorunlar
       loading: Yükleniyor...
+      log_out: Oturumu Kapat
+      log_in: Oturum Aç
+      more: Daha fazla
+      select_language: Dil seçin
+      sign_up: Kaydol
+      user_diaries: Kullanıcı Günlükleri
     meta:
       openstreetmap_search: OpenStreetMap Arama
     select_language_button:

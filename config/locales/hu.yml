@@ -1912,18 +1912,7 @@ hu:
     logo:
       alt_text: OpenStreetMap logó
     layer_info: Réteginformáció
-    home: Ugrás az otthonodhoz
-    logout: Kijelentkezés
-    log_in: Bejelentkezés
-    sign_up: Regisztráció
     start_mapping: Térképezés indítása
-    edit: Szerkesztés
-    history: Előzmények
-    export: Exportálás
-    issues: Problémák
-    gps_traces: GPS-nyomvonalak
-    user_diaries: Naplók
-    edit_with: 'Szerkesztés a következővel: %{editor}'
     intro_header: Üdvözöljük az OpenStreetMap-en!
     intro_text: Az OpenStreetMap egy világtérkép, amelyet hozzád hasonló emberek készítenek
       és szabad licenc alatt elérhető.
@@ -1933,15 +1922,26 @@ hu:
     partners_partners: partnerek
     tou: Felhasználási feltételek
     nothing_to_preview: Nincs mit megtekinteni.
-    help: Súgó
-    about: Névjegy
-    copyright: Szerzői jog és licenc
-    communities: Közösségek
     learn_more: További info
-    more: Több
     header:
-      select_language: Nyelv kiválasztása
+      about: Névjegy
+      communities: Közösségek
+      copyright: Szerzői jog és licenc
+      edit: Szerkesztés
+      edit_with: 'Szerkesztés a következővel: %{editor}'
+      export: Exportálás
+      gps_traces: GPS-nyomvonalak
+      help: Súgó
+      history: Előzmények
+      home: Ugrás az otthonodhoz
+      issues: Problémák
       loading: Betöltés…
+      log_out: Kijelentkezés
+      log_in: Bejelentkezés
+      more: Több
+      select_language: Nyelv kiválasztása
+      sign_up: Regisztráció
+      user_diaries: Naplók
     meta:
       openstreetmap_search: OpenStreetMap Keresés
     select_language_button:

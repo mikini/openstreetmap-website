@@ -1206,7 +1206,7 @@ mk:
           sports_centre: Спортски центар
           stadium: Стадион
           swimming_pool: Базен
-          track: Спортска патека
+          track: Спортска патека (немотоспортска)
           water_park: Аквапарк
           "yes": Разонода
         lock:
@@ -1881,18 +1881,7 @@ mk:
     logo:
       alt_text: Лого на OpenStreetMap
     layer_info: Инфо за слојот
-    home: Оди на матичната местоположба
-    logout: Одјава
-    log_in: Најава
-    sign_up: Зачленување
     start_mapping: Почнете да ги работите картите
-    edit: Уреди
-    history: Историја
-    export: Извези
-    issues: Проблеми
-    gps_traces: ГПС-траги
-    user_diaries: Кориснички дневници
-    edit_with: Уреди со %{editor}
     intro_header: Добре дојдовте на OpenStreetMap!
     intro_text: OpenStreetMap е карта на светот создадена од луѓе како вас и се нуди
       за слободна употреба под отворена лиценца.
@@ -1902,16 +1891,27 @@ mk:
     partners_partners: партнери
     tou: Услови на употреба
     nothing_to_preview: Нема што да се прегледа.
-    help: Помош
-    about: За нас
-    copyright: Авторски права
-    communities: Заедници
-    donate_link: Дарувајте
     learn_more: Дознајте повеќе
-    more: Повеќе
     header:
-      select_language: Изберете јазик
+      about: За нас
+      communities: Заедници
+      copyright: Авторски права
+      donate: Дарувајте
+      edit: Уреди
+      edit_with: Уреди со %{editor}
+      export: Извези
+      gps_traces: ГПС-траги
+      help: Помош
+      history: Историја
+      home: Оди на матичната местоположба
+      issues: Проблеми
       loading: Вчитувам...
+      log_out: Одјава
+      log_in: Најава
+      more: Повеќе
+      select_language: Изберете јазик
+      sign_up: Зачленување
+      user_diaries: Кориснички дневници
     meta:
       openstreetmap_search: Пребарување на OpenStreetMap
     select_language_button:

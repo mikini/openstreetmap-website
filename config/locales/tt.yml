@@ -738,15 +738,16 @@ tt:
         note:
           other_label: Башка
   layouts:
-    logout: Чыгу
-    log_in: Керү
-    edit: Үзгәртү
-    history: Тарих
-    export: Чыгару
-    user_diaries: Кулланучылар көндәлекләре
-    help: Ярдәм
-    about: Проект турында
-    donate_link: Иганә итү
+    header:
+      about: Проект турында
+      donate: Иганә итү
+      edit: Үзгәртү
+      export: Чыгару
+      help: Ярдәм
+      history: Тарих
+      log_out: Чыгу
+      log_in: Керү
+      user_diaries: Кулланучылар көндәлекләре
   user_mailer:
     diary_comment_notification:
       hi: Сәлам, %{to_user},

@@ -790,27 +790,28 @@ mr:
   layouts:
     logo:
       alt_text: ओपनस्ट्रीटमॅप संकेतचित्र
-    home: स्वगृह स्थानावर जा
-    logout: सनोंद-निर्गम
-    log_in: सनोंद-प्रवेश
-    sign_up: नोंदणी करा
     start_mapping: नकाशा आरेखन सुरु करा
-    edit: संपादन करा
-    history: इतिहास
-    export: निर्यात
-    gps_traces: GPS अनुरेख
-    user_diaries: सदस्य अनुदिनी
-    edit_with: '%{editor} वापरून संपादन करा'
     intro_header: ओपनस्ट्रीटमॅपवर स्वागत आहे!
     intro_text: ओपनस्ट्रीटमॅप हा जगाचा नकाशा आहे, जो आपल्यासारख्या लोकांनी तयार केला
       आहे, व जो खुल्या परवान्यांतर्गत वापरास मुक्त आहे.
     partners_partners: भागीदार
-    help: साहाय्य
-    about: आमच्याबद्दल
-    copyright: प्रताधिकार
-    communities: समुदाय
     learn_more: अधिक जाणून घ्या
-    more: अधिक
+    header:
+      about: आमच्याबद्दल
+      communities: समुदाय
+      copyright: प्रताधिकार
+      edit: संपादन करा
+      edit_with: '%{editor} वापरून संपादन करा'
+      export: निर्यात
+      gps_traces: GPS अनुरेख
+      help: साहाय्य
+      history: इतिहास
+      home: स्वगृह स्थानावर जा
+      log_out: सनोंद-निर्गम
+      log_in: सनोंद-प्रवेश
+      more: अधिक
+      sign_up: नोंदणी करा
+      user_diaries: सदस्य अनुदिनी
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user}ने एका अनुदिनीतील नोंदीवर अभिप्राय दिला'

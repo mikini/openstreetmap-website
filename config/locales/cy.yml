@@ -36,7 +36,7 @@ cy:
         create: Creu gorchuddiad
         update: Cadw gorchuddiad
       trace:
-        create: Uwchlwytho
+        create: Lanlwytho
         update: Cadw newidiadau
       user_block:
         create: Creu bloc
@@ -348,8 +348,7 @@ cy:
           ei chadw ar OpenStreetMap, hyd yn oed ar ôl i''ch cyfrif gael ei ddileu:'
         retain_edits: Bydd eich golygiadau i'r gronfa ddata mapiau, os ydynt yn bodoli,
           yn cael eu cadw.
-        retain_traces: Cedwir unrhyw olion rydych chi wedi uwchlwytho os ydynt yn
-          bodoli.
+        retain_traces: Bydd eich olion wedi'u lanlwytho, os o gwbl, yn cael eu cadw.
         retain_diary_entries: Bydd eich cofnodion a sylwadau dyddiadur, os ydynt yn
           bodoli, yn cael eu cadw ond wedi'u cuddio o'r cyhoedd.
         retain_notes: Bydd eich nodiadau map a'ch sylwadau nodyn, os ydynt yn bodoli,
@@ -492,6 +491,13 @@ cy:
         key: Tudalen disgrifiad wici ar gyfer y tag %{key}
         tag: Tudalen disgrifiad wici ar gyfer y tag %{key}=%{value}
       wikidata_link: Eitem %{page} ar Wicidata
+      wikidata_preview:
+        zero: Rhagolwg eitem Wicidata
+        one: Rhagolwg eitem Wicidata
+        two: Rhagolwg eitemau Wicidata
+        few: Rhagolwg eitemau Wicidata
+        many: Rhagolwg eitemau Wicidata
+        other: Rhagolwg eitemau Wicidata
       wikipedia_link: Erthygl %{page} ar Wicipedia
       wikimedia_commons_link: Eitem %{page} ar Gomin Wicimedia
       telephone_link: Galw %{phone_number}
@@ -560,6 +566,10 @@ cy:
         #%{id}.'
     timeout:
       sorry: 'Mae''n ddrwg gennym, cymerodd rhy hir i nôl hanes cydberthynas #%{id}.'
+  old_relation_members:
+    not_found_message:
+      sorry: 'Mae''n ddrwg gennym, ni ellid dod o hyd i fersiwn %{version} o gydberthynas
+        #%{id}.'
   changeset_comments:
     feeds:
       comment:
@@ -1265,7 +1275,7 @@ cy:
           sports_centre: Canolfan Chwaraeon
           stadium: Stadiwm
           swimming_pool: Pwll Nofio
-          track: Trac Rhedeg
+          track: Trac Radio (nad yw'n chwaraeon modur)
           water_park: Parc Dŵr
           "yes": Hamdden
         lock:
@@ -1948,18 +1958,7 @@ cy:
     logo:
       alt_text: Logo OpenStreetMap
     layer_info: Gwybodaeth Haen
-    home: Mynd i Leoliad Cartref
-    logout: Allgofnodi
-    log_in: Mewngofnodi
-    sign_up: Cofrestru
     start_mapping: Dechrau Mapio
-    edit: Golygu
-    history: Hanes
-    export: Allforio
-    issues: Problemau
-    gps_traces: Olion GPS
-    user_diaries: Dyddiaduron
-    edit_with: Golygu gydag %{editor}
     intro_header: Croeso i OpenStreetMap!
     intro_text: Mae OpenStreetMap yn fap o'r byd, wedi'i greu gan bobl fel chi ac
       sydd ar gael i'w ddefnyddio am ddim a dan drwydded rydd.
@@ -1969,16 +1968,27 @@ cy:
     partners_partners: phartneriaid
     tou: Telerau Defnydd
     nothing_to_preview: Dim rhagolwg.
-    help: Cymorth
-    about: Ynghylch
-    copyright: Hawlfraint
-    communities: Cymunedau
-    donate_link: Rhoi arian
     learn_more: Dysgu Rhagor
-    more: Rhagor
     header:
-      select_language: Dewis iaith
+      about: Ynghylch
+      communities: Cymunedau
+      copyright: Hawlfraint
+      donate: Rhoi arian
+      edit: Golygu
+      edit_with: Golygu gydag %{editor}
+      export: Allforio
+      gps_traces: Olion GPS
+      help: Cymorth
+      history: Hanes
+      home: Mynd i Leoliad Cartref
+      issues: Problemau
       loading: Wrthi'n llwytho…
+      log_out: Allgofnodi
+      log_in: Mewngofnodi
+      more: Rhagor
+      select_language: Dewis iaith
+      sign_up: Cofrestru
+      user_diaries: Dyddiaduron
     meta:
       openstreetmap_search: Chwilio OpenStreetMap
     select_language_button:
@@ -2031,9 +2041,9 @@ cy:
       subject: '[OpenStreetMap] Methiant Mewnforio GPX'
     gpx_success:
       hi: Helo %{to_user},
-      all_your_traces: Gellir dod o hyd i'ch holl olion GPX a uwchlwythwyd yn llwyddiannus
+      all_your_traces: Gellir dod o hyd i'ch holl olion GPX a lanlwythwyd yn llwyddiannus
         yn %{url}
-      all_your_traces_html: Gellir dod o hyd i'ch holl olion GPX a uwchlwythwyd yn
+      all_your_traces_html: Gellir dod o hyd i'ch holl olion GPX a lanlwythwyd yn
         llwyddiannus yn %{url}.
       subject: '[OpenStreetMap] Llwyddiant Mewnforio GPX'
     signup_confirm:
@@ -2965,30 +2975,29 @@ cy:
       identifiable: Adnabyddadwy (dangosir yn y rhestr olion ac fel pwyntiau adnabyddadwy,
         wedi'u trefnu, gyda stampiau amser)
     new:
-      upload_trace: Uwchlwytho Ôl GPS
+      upload_trace: Lanlwytho Ôl GPS
       visibility_help: beth mae hyn yn golygu?
       help: Cymorth
     create:
-      upload_trace: Uwchlwytho Ôl GPS
-      trace_uploaded: Mae eich ffeil GPX wedi'i huwchlwytho ac yn aros i gael ei chynnwys
+      upload_trace: Lanlwytho Ôl GPS
+      trace_uploaded: Mae eich ffeil GPX wedi'i lanlwytho ac yn aros i gael ei chynnwys
         yn y gronfa ddata. Bydd hyn fel arfer yn digwydd o fewn hanner awr, a bydd
         e-bost yn cael ei anfon atoch ar ôl cwblhau.
-      upload_failed: Mae'n ddrwg gennym, mae eich uwchlwythiad GPX wedi methu. Mae
+      upload_failed: Mae'n ddrwg gennym, mae eich lanlwythiad GPX wedi methu. Mae
         gweinyddwr wedi cael gwybod am y gwall. Ceisiwch eto.
       traces_waiting:
         zero: Mae gennych %{count} ôl yn aros i'w uwchlwytho. Arhoswch i'r rhain orffen
-          cyn uwchlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
-        one: Mae gennych %{count} ôl yn aros i'w uwchlwytho. Arhoswch i'r rhain orffen
-          cyn uwchlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
-        two: Mae gennych %{count} ôl yn aros i'w uwchlwytho. Arhoswch i'r rhain orffen
-          cyn uwchlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
-        few: Mae gennych %{count} ôl yn aros i'w uwchlwytho. Arhoswch i'r rhain orffen
-          cyn uwchlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
-        many: Mae gennych %{count} ôl yn aros i'w uwchlwytho. Arhoswch i'r rhain orffen
-          cyn uwchlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
-        other: Mae gennych %{count} ôl yn aros i'w uwchlwytho. Arhoswch i'r rhain
-          orffen cyn uwchlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr
-          eraill.
+          cyn lanlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
+        one: Mae gennych %{count} ôl yn aros i'w lanlwytho. Arhoswch i'r rhain orffen
+          cyn lanlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
+        two: Mae gennych %{count} ôl yn aros i'w lanlwytho. Arhoswch i'r rhain orffen
+          cyn lanlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
+        few: Mae gennych %{count} ôl yn aros i'w lanlwytho. Arhoswch i'r rhain orffen
+          cyn lanlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
+        many: Mae gennych %{count} ôl yn aros i'w lanlwytho. Arhoswch i'r rhain orffen
+          cyn lanlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
+        other: Mae gennych %{count} ôl yn aros i'w lanlwytho. Arhoswch i'r rhain orffen
+          cyn lanlwytho rhagor, er mwyn osgoi rhwystro'r ciw i ddefnyddwyr eraill.
     edit:
       cancel: Canslo
       title: Wrthi'n golygu Ôl %{name}
@@ -3002,7 +3011,7 @@ cy:
       pending: I DDOD
       filename: 'Enw''r ffeil:'
       download: lawrlwytho
-      uploaded: 'Uwchlwythwyd:'
+      uploaded: 'Lanlwythwyd:'
       points: 'Pwyntiau:'
       start_coordinates: 'Cyfesuryn cychwynnol:'
       coordinates_html: '%{latitude}; %{longitude}'
@@ -3040,13 +3049,13 @@ cy:
       public_traces: Olion GPS Cyhoeddus
       my_gps_traces: Fy Olion GPS
       public_traces_from: Olion GPS Cyhoeddus gan %{user}
-      description: Pori uwchlwythiadau olion GPS diweddar
+      description: Pori lanlwythiadau olion GPS diweddar
       tagged_with: tagiwyd gyda %{tags}
       empty_title: Dim byd yma eto
-      empty_upload_html: '%{upload_link} neu ddysgwch fry am olion GPS ar y %{wiki_link}.'
-      upload_new: Uwchlwytho ôl newydd
+      empty_upload_html: '%{upload_link} neu ddysgu mwy am olion GPS ar y %{wiki_link}.'
+      upload_new: Lanlwytho ôl newydd
       wiki_page: dudalen wici
-      upload_trace: Uwchlwytho ôl
+      upload_trace: Lanlwytho ôl
       all_traces: Pob Ôl
       my_traces: Fy Olion
       traces_from_html: Olion Cyhoeddus gan %{user}
@@ -3054,10 +3063,10 @@ cy:
     destroy:
       scheduled_for_deletion: Mae'r ôl wedi'i drefnu i'w ddileu
     offline_warning:
-      message: Nid yw'r system uwchlwytho ffeiliau GPX ar gael ar hyn o bryd
+      message: Nid yw'r system lanlwytho ffeiliau GPX ar gael ar hyn o bryd
     offline:
       heading: Storio GPX All-lein
-      message: Nid yw'r system uwchlwytho a storio ffeiliau GPX ar gael ar hyn o bryd.
+      message: Nid yw'r system lanlwytho a storio ffeiliau GPX ar gael ar hyn o bryd.
     feeds:
       show:
         title: Olion GPS OpenStreetMap
@@ -3141,7 +3150,7 @@ cy:
       write_api: Golygu'r map
       write_changeset_comments: Rhoi sylwadau ar grwpiau newid
       read_gpx: Darllen olion GPS preifat
-      write_gpx: Uwchlwytho olion GPS
+      write_gpx: Lanlwytho olion GPS
       write_notes: Addasu nodiadau
       write_redactions: Gorchuddio data map
       write_blocks: Creu a dirymu blociau defnyddwyr
@@ -3627,6 +3636,7 @@ cy:
     share:
       title: Rhannu
       view_larger_map: Gweld Map Mawr
+      export_failed_title: Methwyd ag allforio map
       filename: map
     embed:
       report_problem: Rhoi gwybod am broblem
@@ -3814,6 +3824,8 @@ cy:
     remote_edit:
       failed:
         title: Methwyd â golygu
+        body: Gwnewch yn siŵr bod JOSM neu Merkaartor ar agor a bod yr opsiwn allanol
+          wedi'i alluogi
     edit:
       id_not_configured:
         title: iD heb ei ffurfweddu

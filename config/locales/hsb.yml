@@ -1602,32 +1602,32 @@ hsb:
   layouts:
     logo:
       alt_text: OpenStreetMap logo
-    home: K domjacemu stejnišću
-    logout: Wotzjewić
-    log_in: Přizjewić
-    sign_up: Registrować
     start_mapping: Kartěrowanje započeć
-    edit: Wobdźěłać
-    history: Historija
-    export: Eksport
-    issues: Problemy
-    gps_traces: GPS-ćěrje
-    user_diaries: Wužiwarske dźeniki
-    edit_with: Wobdźěłać z %{editor}
     intro_header: Witaj k OpenStreetMap!
     intro_text: OpenStreetMap je karta swěta, wutworjena wot ludźi kaž tebje a hodźi
       so swobodnje pod wotewrjenej licencu wužiwać.
     partners_partners: partnerow
     tou: Wužiwanske wuměnjenja
-    help: Pomoc
-    about: Wo projekće
-    copyright: Awtorske prawo
-    communities: Zhromadnosće
     learn_more: Wjace zhonić
-    more: Wjace
     header:
-      select_language: Rěč wubrać
+      about: Wo projekće
+      communities: Zhromadnosće
+      copyright: Awtorske prawo
+      edit: Wobdźěłać
+      edit_with: Wobdźěłać z %{editor}
+      export: Eksport
+      gps_traces: GPS-ćěrje
+      help: Pomoc
+      history: Historija
+      home: K domjacemu stejnišću
+      issues: Problemy
       loading: Začituje so...
+      log_out: Wotzjewić
+      log_in: Přizjewić
+      more: Wjace
+      select_language: Rěč wubrać
+      sign_up: Registrować
+      user_diaries: Wužiwarske dźeniki
     meta:
       openstreetmap_search: Pytanje OpenStreetMap
     select_language_button:

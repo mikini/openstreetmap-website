@@ -1645,32 +1645,32 @@ sc:
   layouts:
     logo:
       alt_text: Logotipu de OpenStreetMap
-    home: Bae a sa positzione de incumintzu
-    logout: Essi
-    log_in: Intra
-    sign_up: Iscrie·ti
     start_mapping: Incumintza a mapare
-    edit: Modìfica
-    history: Cronologia
-    export: Esporta
-    issues: Problemas
-    gps_traces: Rastas GPS
-    user_diaries: Diàrios de sos utentes
-    edit_with: Modìfica cun %{editor}
     intro_header: Bene bènnidu in OpenStreetMap!
     intro_text: OpenStreetMap est una mapa de su mundu, creada dae persones che a
       tie e de impreu lìberu suta de una litzèntzia aberta.
     partners_partners: sòtzios
     tou: Conditziones de impreu
-    help: Agiudu
-    about: Informatziones
-    copyright: Deretu de autore
-    communities: Comunidades
     learn_more: Leghe àteru
-    more: Àteru
     header:
-      select_language: Issèbera sa limba
+      about: Informatziones
+      communities: Comunidades
+      copyright: Deretu de autore
+      edit: Modìfica
+      edit_with: Modìfica cun %{editor}
+      export: Esporta
+      gps_traces: Rastas GPS
+      help: Agiudu
+      history: Cronologia
+      home: Bae a sa positzione de incumintzu
+      issues: Problemas
       loading: Carrighende...
+      log_out: Essi
+      log_in: Intra
+      more: Àteru
+      select_language: Issèbera sa limba
+      sign_up: Iscrie·ti
+      user_diaries: Diàrios de sos utentes
     select_language_button:
       title: Issèbera sa limba
   user_mailer:

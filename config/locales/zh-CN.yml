@@ -1911,18 +1911,7 @@ zh-CN:
     logo:
       alt_text: OpenStreetMap 标志
     layer_info: 图层信息
-    home: 前往家庭地址
-    logout: 退出
-    log_in: 登录
-    sign_up: 注册
     start_mapping: 开始绘制地图
-    edit: 编辑
-    history: 历史
-    export: 导出
-    issues: 问题
-    gps_traces: GPS 轨迹
-    user_diaries: 用户日记
-    edit_with: 使用 %{editor} 编辑
     intro_header: 欢迎访问 OpenStreetMap！
     intro_text: OpenStreetMap 是一个世界地图，由像您一样的人们所构筑，可依据开放许可协议自由使用。
     hosting_partners_2024_html: 由%{fastly}、%{corpmembers}，以及其他%{partners}支持托管。
@@ -1930,16 +1919,27 @@ zh-CN:
     partners_partners: 合作伙伴
     tou: 使用条款
     nothing_to_preview: 无可预览内容。
-    help: 帮助
-    about: 关于
-    copyright: 著作权
-    communities: 社区
-    donate_link: 捐赠
     learn_more: 了解更多
-    more: 更多
     header:
-      select_language: 选择语言
+      about: 关于
+      communities: 社区
+      copyright: 著作权
+      donate: 捐赠
+      edit: 编辑
+      edit_with: 使用 %{editor} 编辑
+      export: 导出
+      gps_traces: GPS 轨迹
+      help: 帮助
+      history: 历史
+      home: 前往家庭地址
+      issues: 问题
       loading: 加载中...
+      log_out: 退出
+      log_in: 登录
+      more: 更多
+      select_language: 选择语言
+      sign_up: 注册
+      user_diaries: 用户日记
     meta:
       openstreetmap_search: OpenStreetMap搜索
     select_language_button:

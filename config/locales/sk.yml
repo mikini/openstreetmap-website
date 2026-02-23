@@ -1270,7 +1270,7 @@ sk:
           sports_centre: Športové stredisko
           stadium: Štadión
           swimming_pool: Plaváreň
-          track: Bežecká dráha
+          track: Pretekárska dráha (nie motorové športy)
           water_park: Aquapark
           "yes": Voľný čas
         lock:
@@ -1871,18 +1871,7 @@ sk:
     logo:
       alt_text: Logo OpenStreetMap
     layer_info: Informácie o vrstve
-    home: Prejsť na domovskú polohu
-    logout: Odhlásiť sa
-    log_in: Prihláste sa
-    sign_up: Zaregistrujte sa
     start_mapping: Začať mapovať
-    edit: Upraviť
-    history: História
-    export: Export
-    issues: Problémy
-    gps_traces: GPS stopy
-    user_diaries: Denníky používateľov
-    edit_with: Upraviť pomocou %{editor}
     intro_header: Vitajte v OpenStreetMap!
     intro_text: OpenStreetMap je mapa sveta, vytvorené ľuďmi ako vy, voľne využiteľná
       pod slobodnou licenciou.
@@ -1892,15 +1881,27 @@ sk:
     partners_partners: partneri
     tou: Podmienky používania
     nothing_to_preview: Nič k náhľadu.
-    help: Pomocník
-    about: O projekte
-    copyright: Autorské práva
-    communities: Komunity
     learn_more: Viac info
-    more: Ďalšie
     header:
-      select_language: Zvoľte jazyk
+      about: O projekte
+      communities: Komunity
+      copyright: Autorské práva
+      donate: Prispejte
+      edit: Upraviť
+      edit_with: Upraviť pomocou %{editor}
+      export: Export
+      gps_traces: GPS stopy
+      help: Pomocník
+      history: História
+      home: Prejsť na domovskú polohu
+      issues: Problémy
       loading: Načítava sa...
+      log_out: Odhlásiť sa
+      log_in: Prihláste sa
+      more: Ďalšie
+      select_language: Zvoľte jazyk
+      sign_up: Zaregistrujte sa
+      user_diaries: Denníky používateľov
     meta:
       openstreetmap_search: Vyhľadávanie v OpenStreetMap
     select_language_button:

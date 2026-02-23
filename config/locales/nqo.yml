@@ -1007,29 +1007,30 @@ nqo:
   layouts:
     logo:
       alt_text: ߏߔߌ߲ߛߑߕߙߌߕߑߡߊߔ ߛߌ߲ߞߐ߲
-    home: ߕߊ߯ ߛߏ߫ ߘߌ߲߬ߞߌߙߊ ߘߐ߫
-    logout: ߌ ߜߊ߲߬ߞߎ߲߬ߣߍ߲ ߓߐ߫
-    log_in: ߌ ߜߊ߲߬ߞߎ߲߫
-    sign_up: ߖߊ߬ߕߋ߬ߘߊ ߟߊߞߊ߬
     start_mapping: ߔߊ߬ߔߘߊ߬ ߡߊ߬ߝߟߍ ߘߊߡߌ߬ߣߊ߬
-    edit: ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲
-    history: ߘߐ߬ߝߐ
-    export: ߟߊ߬ߝߏ߬ߦߌ߬ߟߌ
-    issues: ߓߐ߲ߘߊ ߟߎ߫
-    gps_traces: GPS ߣߐ߬ߣߐ߬ߟߌ
-    user_diaries: ߟߊ߬ߓߊ߰ߙߊ߬ߟߊ ߕߋߟߋ߲ ߠߎ߬
-    edit_with: ߊ߬ ߡߊߦߟߍ߬ߡߊ߲߫ %{editor} ߘߌ߫
     intro_header: ߌ ߣߌ߫ ߛߣߍ߫ ߏߔߌ߲߫ ߛߕߑߙߌߕ ߡߊߔ ߞߊ߲߬߹
     intro_text: ߏߔߌ߲߫ ߛߕߑߙߌߕ ߡߊߔ ߦߋ߫ ߘߎߢߊ߫ ߔߊ߬ߔߘߊ ߟߋ߬ ߘߌ߫߸ ߡߍ߲ ߛߌ߲ߘߌߣߍ߲߫ ߦߋ߫ ߡߐ߱ ߟߎ߬
       ߓߟߏ߫ ߦߏ߫ ߌߟߋ߸ ߊ߬ ߟߊߓߊ߯ߙߊ ߦߋ߫ ߛߙߊ߬ߓߊߟߌ ߟߋ߬ ߘߌ߫ ߟߊ߬ߘߤߊ߬ߟߌ߫ ߘߊߦߟߍ߬ߣߍ߲ ߞߘߐ߫.
     partners_fastly: ߝߊߛߕߑߟߋ߫
     partners_partners: ߞߊ߬ߝߏ߬ߢߐ߲߮ ߠߎ߬
     tou: ߟߊ߬ߓߊ߰ߙߊ߬ߟߌ ߛߙߊߕߌ
-    help: ߘߍ߬ߡߍ߲߬ߠߌ߲
-    about: ߞߊ߬ ߓߍ߲߬
-    copyright: ߓߊߦߟߍߡߊ߲ ߤߊߞߍ
     learn_more: ߘߏߜߘߍ߫ ߟߎ߫ ߘߐߞߊ߬ߙߊ߲߬
-    more: ߡߊ߬ߞߊ߬ߝߏ߬ ߜߘߍ ߟߎ߬
+    header:
+      about: ߞߊ߬ ߓߍ߲߬
+      copyright: ߓߊߦߟߍߡߊ߲ ߤߊߞߍ
+      edit: ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲
+      edit_with: ߊ߬ ߡߊߦߟߍ߬ߡߊ߲߫ %{editor} ߘߌ߫
+      export: ߟߊ߬ߝߏ߬ߦߌ߬ߟߌ
+      gps_traces: GPS ߣߐ߬ߣߐ߬ߟߌ
+      help: ߘߍ߬ߡߍ߲߬ߠߌ߲
+      history: ߘߐ߬ߝߐ
+      home: ߕߊ߯ ߛߏ߫ ߘߌ߲߬ߞߌߙߊ ߘߐ߫
+      issues: ߓߐ߲ߘߊ ߟߎ߫
+      log_out: ߌ ߜߊ߲߬ߞߎ߲߬ߣߍ߲ ߓߐ߫
+      log_in: ߌ ߜߊ߲߬ߞߎ߲߫
+      more: ߡߊ߬ߞߊ߬ߝߏ߬ ߜߘߍ ߟߎ߬
+      sign_up: ߖߊ߬ߕߋ߬ߘߊ ߟߊߞߊ߬
+      user_diaries: ߟߊ߬ߓߊ߰ߙߊ߬ߟߊ ߕߋߟߋ߲ ߠߎ߬
   user_mailer:
     diary_comment_notification:
       subject: '[ߏߔߌ߲ߛߑߕߙߌߕߑߡߊߔ] %{user} ߓߘߊ߫ ߕߋ߬ߟߋ߲ ߟߊ߬ߘߏ߲߬ߠߌ߲ ߘߏ߫ ߡߓߊߟߌߡߊ߫'

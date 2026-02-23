@@ -866,24 +866,25 @@ bs:
   layouts:
     logo:
       alt_text: OpenStreetMap logotip
-    home: Idi na početnu lokaciju
-    logout: Odjava
-    log_in: Prijava
-    sign_up: Otvorite račun
-    edit: Urediti
-    history: Historija
-    export: Izvoz
-    gps_traces: GPS trase
-    user_diaries: Dnevnici korisnika
-    edit_with: Uredi sa %{editor}
     intro_header: Dobordošli na OpenStreetMap stranicu!
     intro_text: OpenStreetMap predstavlja mapu svijeta, kreiranu od strane ljudi kao
       što ste vi i može se besplatno koristiti.
     partners_partners: partnera
-    help: Pomoć
-    about: O nama
-    copyright: Autorska prava i dozvola
     learn_more: Saznaj više
+    header:
+      about: O nama
+      copyright: Autorska prava i dozvola
+      edit: Urediti
+      edit_with: Uredi sa %{editor}
+      export: Izvoz
+      gps_traces: GPS trase
+      help: Pomoć
+      history: Historija
+      home: Idi na početnu lokaciju
+      log_out: Odjava
+      log_in: Prijava
+      sign_up: Otvorite račun
+      user_diaries: Dnevnici korisnika
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} je komentirao tvoj unos u dnevnik'

@@ -1942,18 +1942,7 @@ pt-PT:
     logo:
       alt_text: Logótipo do OpenStreetMap
     layer_info: Informações da camada
-    home: Localização base
-    logout: Terminar sessão
-    log_in: Iniciar sessão
-    sign_up: Criar conta
     start_mapping: Começar a mapear
-    edit: Editar
-    history: Histórico
-    export: Exportar
-    issues: Problemas
-    gps_traces: Rotas GPS
-    user_diaries: Diários dos Utilizadores
-    edit_with: Editar com %{editor}
     intro_header: Bem-vind@ ao OpenStreetMap!
     intro_text: O OpenStreetMap é um mapa do mundo, criado por pessoas como tu e de
       uso livre sob uma licença aberta.
@@ -1963,15 +1952,26 @@ pt-PT:
     partners_partners: parceiros
     tou: Condições de utilização
     nothing_to_preview: Nada para pré-visualizar.
-    help: Ajuda
-    about: Sobre
-    copyright: Direitos de Autor
-    communities: Comunidades
     learn_more: Mais informações
-    more: Mais
     header:
-      select_language: Selecionar Idioma
+      about: Sobre
+      communities: Comunidades
+      copyright: Direitos de Autor
+      edit: Editar
+      edit_with: Editar com %{editor}
+      export: Exportar
+      gps_traces: Rotas GPS
+      help: Ajuda
+      history: Histórico
+      home: Localização base
+      issues: Problemas
       loading: A carregar...
+      log_out: Terminar sessão
+      log_in: Iniciar sessão
+      more: Mais
+      select_language: Selecionar Idioma
+      sign_up: Criar conta
+      user_diaries: Diários dos Utilizadores
     meta:
       openstreetmap_search: Pesquisa OpenStreetMap
     select_language_button:

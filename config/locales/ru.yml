@@ -1897,18 +1897,7 @@ ru:
   layouts:
     logo:
       alt_text: Логотип OpenStreetMap
-    home: Домой
-    logout: Выйти
-    log_in: Войти
-    sign_up: Зарегистрироваться
     start_mapping: Начать картографировать
-    edit: Правка
-    history: История
-    export: Экспорт
-    issues: Проблемы
-    gps_traces: GPS-треки
-    user_diaries: Дневники участников
-    edit_with: Редактировать с помощью %{editor}
     intro_header: Добро пожаловать на OpenStreetMap!
     intro_text: OpenStreetMap является картой мира, созданной такими же людьми, как
       и вы, и может свободно использоваться под открытой лицензией.
@@ -1918,15 +1907,26 @@ ru:
     partners_partners: партнёрами
     tou: Условия использования
     nothing_to_preview: Нечего предпросматривать.
-    help: Помощь
-    about: О проекте
-    copyright: Авторские права
-    communities: Сообщества
     learn_more: Узнать больше
-    more: Ещё
     header:
-      select_language: Выберите язык
+      about: О проекте
+      communities: Сообщества
+      copyright: Авторские права
+      edit: Правка
+      edit_with: Редактировать с помощью %{editor}
+      export: Экспорт
+      gps_traces: GPS-треки
+      help: Помощь
+      history: История
+      home: Домой
+      issues: Проблемы
       loading: Загружается…
+      log_out: Выйти
+      log_in: Войти
+      more: Ещё
+      select_language: Выберите язык
+      sign_up: Зарегистрироваться
+      user_diaries: Дневники участников
     select_language_button:
       title: Выберите язык
     offline_flash:

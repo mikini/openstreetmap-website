@@ -740,26 +740,27 @@ kab:
   layouts:
     logo:
       alt_text: Alugu n OpenStreetMap
-    home: Duu ar uxxam-ik
-    logout: Ffeɣ
-    log_in: Qqen
-    sign_up: Jerred
     start_mapping: Bdu asgertel
-    edit: Ẓreg
-    history: Amazray
-    export: Sifeḍ
-    gps_traces: Lǧerrat GPS
-    user_diaries: Iɣmisen n iseqdacen
-    edit_with: Ẓreg s %{editor}
     intro_header: Anṣuf ar OpenStreetMap!
     intro_text: OpenStreetMap d takarḍa n umadal, rnna-tt yemdanen am kečč d tilellit
       i useqdec ddaw n turagt tilellit.
     partners_partners: imendiden
-    help: Tallelt
-    about: Ɣef
-    copyright: Izerfan n umeskar
     learn_more: Issin ugar
-    more: Ugar
+    header:
+      about: Ɣef
+      copyright: Izerfan n umeskar
+      edit: Ẓreg
+      edit_with: Ẓreg s %{editor}
+      export: Sifeḍ
+      gps_traces: Lǧerrat GPS
+      help: Tallelt
+      history: Amazray
+      home: Duu ar uxxam-ik
+      log_out: Ffeɣ
+      log_in: Qqen
+      more: Ugar
+      sign_up: Jerred
+      user_diaries: Iɣmisen n iseqdacen
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} yuzen-d awennit ar umagrad n uɣmis'

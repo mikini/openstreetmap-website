@@ -691,19 +691,20 @@ sr-Latn:
       title: Openstritmap
     logo:
       alt_text: Logotip Openstritmapa
-    home: dom
-    logout: odjavi me
-    log_in: prijavi me
-    sign_up: otvori nalog
-    edit: Uredi
-    history: Istorija
-    export: Izvezi
-    gps_traces: GPS tragovi
-    user_diaries: Dnevnici
-    edit_with: Uredi uređivačem %{editor}
     partners_partners: partneri
-    help: Pomoć
-    copyright: Autorska prava i licenca
+    header:
+      copyright: Autorska prava i licenca
+      edit: Uredi
+      edit_with: Uredi uređivačem %{editor}
+      export: Izvezi
+      gps_traces: GPS tragovi
+      help: Pomoć
+      history: Istorija
+      home: dom
+      log_out: odjavi me
+      log_in: prijavi me
+      sign_up: otvori nalog
+      user_diaries: Dnevnici
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} prokomentarisa vaš unos u dnevniku'

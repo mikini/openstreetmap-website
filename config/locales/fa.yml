@@ -1499,30 +1499,31 @@ fa:
   layouts:
     logo:
       alt_text: لوگوی OpenStreetMap
-    home: رفتن به محل خانه
-    logout: خروج
-    log_in: ورود
-    sign_up: ثبت نام
     start_mapping: نقشه‌کشی را آغاز کنید
-    edit: ویرایش
-    history: تاریخچه
-    export: برون‌ریزی
-    issues: مسئله‌ها
-    gps_traces: ردهای GPS
-    user_diaries: روزنوشت‌های کاربر
-    edit_with: ویرایش با %{editor}
     intro_header: به OpenStreetMap خوش آمدید!
     intro_text: OpenStreetMap نقشه‌ای از جهان است که افرادی مانند شما آن را ساخته‌اند
       و آزادید آن را تحت پروانه‌ای آزاد استفاده کنید.
     partners_partners: شرکای تجاری
     tou: شرایط استفاده
     nothing_to_preview: چیزی برای پیش‌نمایش وجود ندارد.
-    help: راهنما
-    about: درباره
-    copyright: حق نشر
-    communities: جوامع
     learn_more: اطلاعات بیشتر
-    more: بیشتر
+    header:
+      about: درباره
+      communities: جوامع
+      copyright: حق نشر
+      edit: ویرایش
+      edit_with: ویرایش با %{editor}
+      export: برون‌ریزی
+      gps_traces: ردهای GPS
+      help: راهنما
+      history: تاریخچه
+      home: رفتن به محل خانه
+      issues: مسئله‌ها
+      log_out: خروج
+      log_in: ورود
+      more: بیشتر
+      sign_up: ثبت نام
+      user_diaries: روزنوشت‌های کاربر
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] ‫%{user} روی روزنوشت نظر داد‬'

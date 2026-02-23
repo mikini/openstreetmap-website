@@ -1401,27 +1401,28 @@ pa:
     logo:
       alt_text: ਖੁੱਲ੍ਹਾ-ਗਲੀ-ਨਕਸ਼ਾ ਮਾਰਕਾ
     layer_info: ਪਰਤ ਜਾਣਕਾਰੀ
-    home: ਘਰੇਲੂ ਟਿਕਾਣੇ 'ਤੇ ਜਾਉ
-    logout: ਬਾਹਰ ਆਓ
-    log_in: ਦਾਖ਼ਲ ਹੋਵੋ
-    sign_up: ਖ਼ਾਤਾ ਬਣਾਓ
     start_mapping: ਨਕਸ਼ਾਬੰਦੀ ਸ਼ੁਰੂ ਕਰੋ
-    edit: ਸੋਧੋ
-    history: ਪੁਰਾਣਾ
-    export: ਬਰਾਮਦ
-    issues: ਮੁੱਦੇ
-    gps_traces: GPS ਖੁਰਾ-ਖੋਜ
-    user_diaries: ਵਰਤੋਂਕਾਰਾਂ ਦੇ ਰੋਜ਼ਨਾਮਚੇ
-    edit_with: '%{editor} ਨਾਲ ਸੋਧੋ'
     intro_header: ਖੁੱਲ੍ਹਾ-ਗਲੀ-ਨਕਸ਼ਾ ਉੱਤੇ ਜੀ ਆਇਆਂ ਨੂੰ
     partners_partners: ਜੋੜੀਦਾਰ
     tou: ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ
-    help: ਮਦਦ
-    about: ਬਾਬਤ
-    copyright: ਨਕਲ-ਹੱਕ
-    communities: ਭਾਈਚਾਰੇ
     learn_more: ਹੋਰ ਜਾਣੋ
-    more: ਹੋਰ
+    header:
+      about: ਬਾਬਤ
+      communities: ਭਾਈਚਾਰੇ
+      copyright: ਨਕਲ-ਹੱਕ
+      edit: ਸੋਧੋ
+      edit_with: '%{editor} ਨਾਲ ਸੋਧੋ'
+      export: ਬਰਾਮਦ
+      gps_traces: GPS ਖੁਰਾ-ਖੋਜ
+      help: ਮਦਦ
+      history: ਪੁਰਾਣਾ
+      home: ਘਰੇਲੂ ਟਿਕਾਣੇ 'ਤੇ ਜਾਉ
+      issues: ਮੁੱਦੇ
+      log_out: ਬਾਹਰ ਆਓ
+      log_in: ਦਾਖ਼ਲ ਹੋਵੋ
+      more: ਹੋਰ
+      sign_up: ਖ਼ਾਤਾ ਬਣਾਓ
+      user_diaries: ਵਰਤੋਂਕਾਰਾਂ ਦੇ ਰੋਜ਼ਨਾਮਚੇ
   user_mailer:
     diary_comment_notification:
       hi: ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ %{to_user}

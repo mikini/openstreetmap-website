@@ -1432,18 +1432,7 @@ sr:
   layouts:
     logo:
       alt_text: Логотип OpenStreetMap-а
-    home: Кућа
-    logout: Одјава
-    log_in: Пријава
-    sign_up: Регистрација
     start_mapping: Почни са мапирањем
-    edit: Уреди
-    history: Историја
-    export: Извези
-    issues: Проблеми
-    gps_traces: ГПС трагови
-    user_diaries: Дневници корисника
-    edit_with: Уреди помоћу %{editor}
     intro_header: Добро дошли на OpenStreetMap!
     intro_text: OpenStreetMap је мапа света коју су направили људи попут вас. Слободна
       је за коришћење под отвореном лиценцом.
@@ -1452,15 +1441,26 @@ sr:
     partners_partners: партнери
     tou: Услови коришћења
     nothing_to_preview: Ништа за преглед.
-    help: Помоћ
-    about: О нама
-    copyright: Ауторска права
-    communities: Заједнице
-    donate_link: Донирај
     learn_more: Детаљније
-    more: Више
     header:
+      about: О нама
+      communities: Заједнице
+      copyright: Ауторска права
+      donate: Донирај
+      edit: Уреди
+      edit_with: Уреди помоћу %{editor}
+      export: Извези
+      gps_traces: ГПС трагови
+      help: Помоћ
+      history: Историја
+      home: Кућа
+      issues: Проблеми
       loading: Учитавање...
+      log_out: Одјава
+      log_in: Пријава
+      more: Више
+      sign_up: Регистрација
+      user_diaries: Дневници корисника
     select_language_button:
       title: Изаберите језик
   user_mailer:

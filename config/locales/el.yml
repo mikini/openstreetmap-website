@@ -1944,18 +1944,7 @@ el:
     logo:
       alt_text: Λογότυπο OpenStreetMap
     layer_info: Πληροφορίες επιπέδου
-    home: Μετάβαση στη τοποθεσία σπιτιού
-    logout: Αποσύνδεση
-    log_in: Σύνδεση
-    sign_up: Εγγραφή
     start_mapping: Ξεκινήστε τη χαρτογράφηση
-    edit: Επεξεργασία
-    history: Ιστορικό
-    export: Εξαγωγή
-    issues: Ζητήματα
-    gps_traces: Ίχνη GPS
-    user_diaries: Ημερολόγια χρηστών
-    edit_with: Επεξεργασία με %{editor}
     intro_header: Καλώς ήρθατε στο OpenStreetMap!
     intro_text: Το OpenStreetMap είναι ένας χάρτης του κόσμου, που δημιουργήθηκε από
       ανθρώπους σαν κι εσάς και είναι δωρεάν για χρήση υπό άδεια ελεύθερης χρήσης.
@@ -1965,16 +1954,27 @@ el:
     partners_partners: συνεργάτες
     tou: Όροι Χρήσης
     nothing_to_preview: Τίποτα για προεπισκόπηση.
-    help: Βοήθεια
-    about: Σχετικά
-    copyright: Πνευματικά δικαιώματα
-    communities: Κοινότητες
-    donate_link: Δωρεά
     learn_more: Μάθετε περισσότερα
-    more: Περισσότερα
     header:
-      select_language: Επιλογή γλώσσας
+      about: Σχετικά
+      communities: Κοινότητες
+      copyright: Πνευματικά δικαιώματα
+      donate: Δωρεά
+      edit: Επεξεργασία
+      edit_with: Επεξεργασία με %{editor}
+      export: Εξαγωγή
+      gps_traces: Ίχνη GPS
+      help: Βοήθεια
+      history: Ιστορικό
+      home: Μετάβαση στη τοποθεσία σπιτιού
+      issues: Ζητήματα
       loading: Φόρτωση...
+      log_out: Αποσύνδεση
+      log_in: Σύνδεση
+      more: Περισσότερα
+      select_language: Επιλογή γλώσσας
+      sign_up: Εγγραφή
+      user_diaries: Ημερολόγια χρηστών
     meta:
       openstreetmap_search: Αναζήτηση OpenStreetMap
     select_language_button:

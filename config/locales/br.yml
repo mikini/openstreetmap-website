@@ -1816,18 +1816,7 @@ br:
     logo:
       alt_text: Logo OpenStreetMap
     layer_info: Titouroù ar gwiskad
-    home: Mont da lec'h ar gêr
-    logout: Digevreañ
-    log_in: Kevreañ
-    sign_up: En em enskrivañ
     start_mapping: Kregiñ da gartennaouiñ
-    edit: Aozañ
-    history: Istor
-    export: Ezporzhiañ
-    issues: Kudennoù
-    gps_traces: Roudoù GPS
-    user_diaries: Deizlevrioù an implijer
-    edit_with: Kemmañ gant %{editor}
     intro_header: Donemat en OpenStreetMap !
     intro_text: Ur gartenn eus ar bed eo OprenStreetMap, krouet gant tud eveldoc'h
       ha frank hec'h implij dindan un aotre-implij digor.
@@ -1837,15 +1826,26 @@ br:
     partners_partners: Kevelourien
     tou: Termenoù implijout
     nothing_to_preview: N'eus rakwel ebet.
-    help: Skoazell
-    about: Diwar-benn
-    copyright: Gwirioù oberour & Aotre-implijout
-    communities: Kumuniezhioù
     learn_more: Gouzout hiroc'h
-    more: Muioc'h
     header:
-      select_language: Dibab ar yezh
+      about: Diwar-benn
+      communities: Kumuniezhioù
+      copyright: Gwirioù oberour & Aotre-implijout
+      edit: Aozañ
+      edit_with: Kemmañ gant %{editor}
+      export: Ezporzhiañ
+      gps_traces: Roudoù GPS
+      help: Skoazell
+      history: Istor
+      home: Mont da lec'h ar gêr
+      issues: Kudennoù
       loading: O kargañ...
+      log_out: Digevreañ
+      log_in: Kevreañ
+      more: Muioc'h
+      select_language: Dibab ar yezh
+      sign_up: En em enskrivañ
+      user_diaries: Deizlevrioù an implijer
     meta:
       openstreetmap_search: Klask e-barzh OpenStreetMap
     select_language_button:

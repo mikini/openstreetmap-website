@@ -815,27 +815,28 @@ dsb:
   layouts:
     logo:
       alt_text: Logo OpenStreetMap
-    home: K domacnemu městnoju
-    logout: Wótzjawiś
-    log_in: Pśizjawiś
-    sign_up: Registrěrowaś
     start_mapping: Kartěrowanje zachopiś
-    edit: Wobźěłaś
-    history: Historija
-    export: Eksport
-    gps_traces: GPS-slědy
-    user_diaries: Dnjowniki
-    edit_with: Z %{editor} wobźěłaś
     intro_header: Witaj k OpenStreetMap!
     intro_text: OpenStreetMap jó kórta swěta, napórana wót luźi ako ty a dajo se licho
       pód wótwórjoneju licencu wužywaś.
     partners_partners: partnerow
-    help: Pomoc
-    about: Wó
-    copyright: Awtorske pšawo
-    communities: Zgromadnosći
     learn_more: Dalšne informacije
-    more: Wěcej
+    header:
+      about: Wó
+      communities: Zgromadnosći
+      copyright: Awtorske pšawo
+      edit: Wobźěłaś
+      edit_with: Z %{editor} wobźěłaś
+      export: Eksport
+      gps_traces: GPS-slědy
+      help: Pomoc
+      history: Historija
+      home: K domacnemu městnoju
+      log_out: Wótzjawiś
+      log_in: Pśizjawiś
+      more: Wěcej
+      sign_up: Registrěrowaś
+      user_diaries: Dnjowniki
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} jo twój zapisk dnjownika komentěrował.'

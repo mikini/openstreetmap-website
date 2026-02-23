@@ -1072,25 +1072,25 @@ ne:
       title: ओपन स्ट्रिट म्याप
     logo:
       alt_text: OpenStreetMap लोगो
-    logout: निर्गमन गर्नुहोस्
-    log_in: प्रवेश गर्नुहोस्
-    sign_up: खाता खाेल्नुहाेस्
     start_mapping: म्यापिङ गर्न सुरु गर्नुहोस्
-    edit: सम्पादन गर्नुहोस्
-    history: इतिहास
-    export: निर्यात गर्नुहोस्
-    gps_traces: GPS ट्रेसहरू
-    user_diaries: प्रयोगकर्ताका डायरीहरू
-    edit_with: '%{editor} प्रयोग गरेर सम्पादन गर्नुहोस्'
     intro_header: ओपन स्ट्रिट म्यापमा स्वागत छ!
     partners_partners: समर्थकहरू
-    help: सहयोग
-    about: बारेमा
-    copyright: प्रतिलिपि अधिकार
     learn_more: थप जान्नुहोस्
-    more: थप
     header:
+      about: बारेमा
+      copyright: प्रतिलिपि अधिकार
+      edit: सम्पादन गर्नुहोस्
+      edit_with: '%{editor} प्रयोग गरेर सम्पादन गर्नुहोस्'
+      export: निर्यात गर्नुहोस्
+      gps_traces: GPS ट्रेसहरू
+      help: सहयोग
+      history: इतिहास
+      log_out: निर्गमन गर्नुहोस्
+      log_in: प्रवेश गर्नुहोस्
+      more: थप
       select_language: भाषा छान्नुहाेस्
+      sign_up: खाता खाेल्नुहाेस्
+      user_diaries: प्रयोगकर्ताका डायरीहरू
   user_mailer:
     diary_comment_notification:
       hi: नमस्ते %{to_user},

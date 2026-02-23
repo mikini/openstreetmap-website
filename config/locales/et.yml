@@ -1707,17 +1707,7 @@ et:
     logo:
       alt_text: OpenStreetMapi logo
     layer_info: Kihi teave
-    home: Kodu asukohta
-    logout: Logi välja
-    log_in: Logi sisse
-    sign_up: Registreeru
     start_mapping: Alusta kaardistamist
-    edit: Redigeeri
-    history: Ajalugu
-    export: Eksport
-    gps_traces: GPS-rajad
-    user_diaries: Kasutajate päevikud
-    edit_with: Redigeeri rakendusega %{editor}
     intro_header: Tere tulemast OpenStreetMapi!
     intro_text: OpenStreetMap on maailma kaart, mille on loonud inimesed nagu sina
       ja seda võib vabalt kasutada avatud litsentsi tingimustel.
@@ -1727,14 +1717,24 @@ et:
     partners_partners: partnerid
     tou: Kasutustingimused
     nothing_to_preview: Eelvaates pole midagi näidata.
-    help: Juhend
-    about: Teave
-    copyright: Autoriõigused
-    communities: Kogukonnad
     learn_more: Lisateave
-    more: Veel
     header:
+      about: Teave
+      communities: Kogukonnad
+      copyright: Autoriõigused
+      edit: Redigeeri
+      edit_with: Redigeeri rakendusega %{editor}
+      export: Eksport
+      gps_traces: GPS-rajad
+      help: Juhend
+      history: Ajalugu
+      home: Kodu asukohta
+      log_out: Logi välja
+      log_in: Logi sisse
+      more: Veel
       select_language: Vali keel
+      sign_up: Registreeru
+      user_diaries: Kasutajate päevikud
     select_language_button:
       title: Vali keel
   user_mailer:

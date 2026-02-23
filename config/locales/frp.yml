@@ -1900,18 +1900,7 @@ frp:
     logo:
       alt_text: Simbolo d'OpenStreetMap
     layer_info: Enformacions de la cuche
-    home: Alar u luè de voutron domicilo
-    logout: Sè dèbranchiér
-    log_in: Sè branchiér
-    sign_up: S'encartar
     start_mapping: Comenciér a mapar
-    edit: Changiér
-    history: Historico
-    export: Èxportar
-    issues: Problèmos
-    gps_traces: Traces GPS
-    user_diaries: Jornâls de l'usanciér(e)
-    edit_with: Changiér avouéc %{editor}
     intro_header: Benvenua dens OpenStreetMap !
     intro_text: OpenStreetMap est una mapa du mondo, fâte per des gens come vos, et
       libra d'usâjo sot licence libra.
@@ -1921,16 +1910,27 @@ frp:
     partners_partners: partenèros
     tou: Condicions d’usâjo
     nothing_to_preview: É y at ren a prè-vêre.
-    help: Éde
-    about: A propôs
-    copyright: Drêts d'ôtor
-    communities: Comunôtâts
-    donate_link: Balyér
     learn_more: Nen savêr més
-    more: Més
     header:
-      select_language: Chouèsir la lengoua
+      about: A propôs
+      communities: Comunôtâts
+      copyright: Drêts d'ôtor
+      donate: Balyér
+      edit: Changiér
+      edit_with: Changiér avouéc %{editor}
+      export: Èxportar
+      gps_traces: Traces GPS
+      help: Éde
+      history: Historico
+      home: Alar u luè de voutron domicilo
+      issues: Problèmos
       loading: Chargement...
+      log_out: Sè dèbranchiér
+      log_in: Sè branchiér
+      more: Més
+      select_language: Chouèsir la lengoua
+      sign_up: S'encartar
+      user_diaries: Jornâls de l'usanciér(e)
     meta:
       openstreetmap_search: OpenStreetMap Rechèrche
     select_language_button:

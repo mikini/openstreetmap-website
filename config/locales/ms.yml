@@ -1136,29 +1136,30 @@ ms:
     logo:
       alt_text: Logo OpenStreetMap
     layer_info: Maklumat Lapisan
-    home: Pergi ke Lokasi Pangkal
-    logout: Log Keluar
-    log_in: log Masuk
-    sign_up: Daftar
     start_mapping: Mulakan Memeta
-    edit: Sunting
-    history: Sejarah
-    export: Eksport
-    issues: Masalah-masalah
-    gps_traces: Jejak GPS
-    user_diaries: Diari Pengguna
-    edit_with: Sunting dengan %{editor}
     intro_header: Selamat datang ke OpenStreetMap!
     intro_text: OpenStreetMap ialah peta dunia yang diwujudkan oleh insan seperti
       anda, dan bebas digunakan dengan berlandaskan lesen terbuka.
     partners_partners: rakan-rakan kongsi
     tou: Syarat-Syarat Penggunaan
-    help: Bantuan
-    about: Perihal
-    copyright: Hak Cipta
-    communities: Masyarakat
     learn_more: Ketahui Lebih Lanjut
-    more: Selebihnya
+    header:
+      about: Perihal
+      communities: Masyarakat
+      copyright: Hak Cipta
+      edit: Sunting
+      edit_with: Sunting dengan %{editor}
+      export: Eksport
+      gps_traces: Jejak GPS
+      help: Bantuan
+      history: Sejarah
+      home: Pergi ke Lokasi Pangkal
+      issues: Masalah-masalah
+      log_out: Log Keluar
+      log_in: log Masuk
+      more: Selebihnya
+      sign_up: Daftar
+      user_diaries: Diari Pengguna
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} mengulas catatan diari anda'

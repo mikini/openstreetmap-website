@@ -1346,17 +1346,7 @@ az:
   layouts:
     logo:
       alt_text: OpenStreetMap loqosu
-    home: Evə get
-    logout: Çıxış
-    log_in: daxil ol
-    sign_up: qeydiyyatdan keç
     start_mapping: Xəritələşdirməyə başla
-    edit: Redaktə
-    history: Tarix
-    export: İxrac
-    gps_traces: GPS cizgilər
-    user_diaries: İstifadəçi gündəlikləri
-    edit_with: '%{editor} köməyi ilə dəyişdir'
     intro_header: OpenStreetMap-a xoş gəlmisiniz!
     intro_text: OpenStreetMap sizin kimi insanlar tərəfindən yaradılan və açıq lisenziya
       altında istifadə üçün pulsuz olan dünya xəritəsidir.
@@ -1364,11 +1354,22 @@ az:
       tərəfindən dəstəklənir.
     partners_corpmembers: OSMF korporativ üzvləri
     partners_partners: partnyorlar
-    help: Kömək
-    about: Haqqında
-    copyright: Müəllif hüququ
-    communities: İcmalar
     learn_more: Daha ətraflı
+    header:
+      about: Haqqında
+      communities: İcmalar
+      copyright: Müəllif hüququ
+      edit: Redaktə
+      edit_with: '%{editor} köməyi ilə dəyişdir'
+      export: İxrac
+      gps_traces: GPS cizgilər
+      help: Kömək
+      history: Tarix
+      home: Evə get
+      log_out: Çıxış
+      log_in: daxil ol
+      sign_up: qeydiyyatdan keç
+      user_diaries: İstifadəçi gündəlikləri
     offline_flash:
       osm_offline: Texniki baxış aparıldığı üçün OpenStreetMap verilənlər bazası hazırda
         oflayndır.

@@ -1907,18 +1907,7 @@ he:
   layouts:
     logo:
       alt_text: הלוגו של OpenStreetMap
-    home: מעבר למיקום הבית
-    logout: יציאה מהחשבון
-    log_in: כניסה לחשבון
-    sign_up: הרשמה
     start_mapping: להתחיל למפות
-    edit: עריכה
-    history: היסטוריה
-    export: יצוא
-    issues: תקלות
-    gps_traces: מסלולי GPS
-    user_diaries: יומני משתמשים
-    edit_with: לעריכה עם %{editor}
     intro_header: ברוכים הבאים ל־OpenStreetMap!
     intro_text: OpenStreetMap היא מפה של העולם, שנוצרת על־ידי אנשים כמוך, וחופשית
       לשימוש תחת רישיון פתוח.
@@ -1929,15 +1918,26 @@ he:
     partners_partners: שותפים
     tou: תנאי השימוש
     nothing_to_preview: אין מה להראות בתצוגה מקדימה.
-    help: עזרה
-    about: אודות
-    copyright: זכויות יוצרים
-    communities: קהילות
     learn_more: מידע נוסף
-    more: עוד
     header:
-      select_language: בחירת שפה
+      about: אודות
+      communities: קהילות
+      copyright: זכויות יוצרים
+      edit: עריכה
+      edit_with: לעריכה עם %{editor}
+      export: יצוא
+      gps_traces: מסלולי GPS
+      help: עזרה
+      history: היסטוריה
+      home: מעבר למיקום הבית
+      issues: תקלות
       loading: טעינה...
+      log_out: יציאה מהחשבון
+      log_in: כניסה לחשבון
+      more: עוד
+      select_language: בחירת שפה
+      sign_up: הרשמה
+      user_diaries: יומני משתמשים
     meta:
       openstreetmap_search: חיפוש ב־OpenStreetMap
     select_language_button:

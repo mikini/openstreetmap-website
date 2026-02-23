@@ -427,14 +427,15 @@ ps:
       miles_yards: ميله، يارډه
       distance_units_settings: واټن يوونونو اوڼنې
   layouts:
-    home: کورځی ته ورتلل
-    logout: وتل
-    log_in: ننوتل
-    sign_up: نوم‌ليکل
-    edit: سمول
-    history: پېښليک
-    help: لارښود
     learn_more: نور مالومات
+    header:
+      edit: سمول
+      help: لارښود
+      history: پېښليک
+      home: کورځی ته ورتلل
+      log_out: وتل
+      log_in: ننوتل
+      sign_up: نوم‌ليکل
     meta:
       openstreetmap_search: د پرانېستې‌کوڅې‌نخشې پلټل
   user_mailer:

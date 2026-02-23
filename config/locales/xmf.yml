@@ -1279,29 +1279,29 @@ xmf:
   layouts:
     logo:
       alt_text: OpenStreetMap-იშ ლოგო
-    logout: გიშულა
-    log_in: მიშულა
-    sign_up: რეგისტრაცია
     start_mapping: კარტოგრაფირებაშ დოჭყაფა
-    edit: რედაქტირაფა
-    history: ისტორია
-    export: ექსპორტი
-    issues: პრობლემეფი
-    gps_traces: GPS-ტრეკეფი
-    user_diaries: მახვარებუეფიშ დღარეფი
-    edit_with: რედაქტირება %{editor}შ მოხვარათ
     intro_header: მოზოჯით OpenStreetMap-შა!
     partners_partners: პარტნიორები
     tou: გჷმორინაფაშ წესეფი
-    help: მოხვარა
-    about: გეშა
-    copyright: ოავტორე ნება
-    communities: ჯარალუეფი
     learn_more: უმოსიშ გაგება
-    more: უმოსი
     header:
-      select_language: გეგშაგორით ნინა
+      about: გეშა
+      communities: ჯარალუეფი
+      copyright: ოავტორე ნება
+      edit: რედაქტირაფა
+      edit_with: რედაქტირება %{editor}შ მოხვარათ
+      export: ექსპორტი
+      gps_traces: GPS-ტრეკეფი
+      help: მოხვარა
+      history: ისტორია
+      issues: პრობლემეფი
       loading: იხარგუაფუ...
+      log_out: გიშულა
+      log_in: მიშულა
+      more: უმოსი
+      select_language: გეგშაგორით ნინა
+      sign_up: რეგისტრაცია
+      user_diaries: მახვარებუეფიშ დღარეფი
     select_language_button:
       title: გეგშაგორით ნინა
   user_mailer:

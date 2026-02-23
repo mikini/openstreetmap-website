@@ -1716,18 +1716,7 @@ fi:
   layouts:
     logo:
       alt_text: OpenStreetMap-logo
-    home: Siirry kotipaikkaan
-    logout: Kirjaudu ulos
-    log_in: Kirjaudu sisään
-    sign_up: Rekisteröidy
     start_mapping: Liity mukaan
-    edit: Muokkaa
-    history: Historia
-    export: Vienti
-    issues: Ilmiannot
-    gps_traces: GPS-jäljet
-    user_diaries: Päiväkirjamerkinnät
-    edit_with: 'Muokkaa: %{editor}'
     intro_header: Tervetuloa OpenStreetMapiin!
     intro_text: OpenStreetMap on vapaaehtoisten luoma maailmankartta, jota voi käyttää
       vapaasti avoimella lisenssillä.
@@ -1737,15 +1726,26 @@ fi:
     partners_partners: kumppanimme
     tou: Käyttöehdot
     nothing_to_preview: Ei mitään esikatseltavaa
-    help: Ohje
-    about: Tietoja
-    copyright: Tekijänoikeudet
-    communities: Yhteisöt
     learn_more: Lisätietoja
-    more: Lisää
     header:
-      select_language: Valitse kieli
+      about: Tietoja
+      communities: Yhteisöt
+      copyright: Tekijänoikeudet
+      edit: Muokkaa
+      edit_with: 'Muokkaa: %{editor}'
+      export: Vienti
+      gps_traces: GPS-jäljet
+      help: Ohje
+      history: Historia
+      home: Siirry kotipaikkaan
+      issues: Ilmiannot
       loading: Ladataan...
+      log_out: Kirjaudu ulos
+      log_in: Kirjaudu sisään
+      more: Lisää
+      select_language: Valitse kieli
+      sign_up: Rekisteröidy
+      user_diaries: Päiväkirjamerkinnät
     select_language_button:
       title: Valitse kieli
   user_mailer:

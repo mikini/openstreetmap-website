@@ -542,15 +542,16 @@ arz:
   layouts:
     logo:
       alt_text: شعار خريطه الشارع المفتوحة
-    home: روح للصفحه الرئيسيه
-    logout: خروج
-    log_in: تسجيل الدخول
-    sign_up: اعمل حساب
-    edit: عدّل هذه الخريطة
-    history: تاريخ
-    export: صدِّر
-    gps_traces: آثار جى بى أس
-    user_diaries: يوميات المستخدمين
+    header:
+      edit: عدّل هذه الخريطة
+      export: صدِّر
+      gps_traces: آثار جى بى أس
+      history: تاريخ
+      home: روح للصفحه الرئيسيه
+      log_out: خروج
+      log_in: تسجيل الدخول
+      sign_up: اعمل حساب
+      user_diaries: يوميات المستخدمين
   user_mailer:
     diary_comment_notification:
       subject: '[خريطه الشارع المفتوحة] %{user} أضاف تعليقًا على مدخلتك فى اليومية'

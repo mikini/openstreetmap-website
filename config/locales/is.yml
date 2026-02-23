@@ -1867,18 +1867,7 @@ is:
       title: OpenStreetMap
     logo:
       alt_text: OpenStreetMap merkið
-    home: Fara heim
-    logout: Skrá út
-    log_in: Skrá inn
-    sign_up: Nýskrá
     start_mapping: Hefja kortlagningu
-    edit: Breyta
-    history: Breytingaskrá
-    export: Flytja út
-    issues: Vandamál
-    gps_traces: GPS ferlar
-    user_diaries: Blogg notenda
-    edit_with: Breyta með %{editor}
     intro_header: Velkomin(n) í OpenStreetMap!
     intro_text: OpenStreetMap er heimskort gert af fólki eins og þér. Það er gefið
       út með opnu hugbúnaðarleyfi og það kostar ekkert að nota það.
@@ -1889,15 +1878,26 @@ is:
     partners_partners: samstarfsaðilum
     tou: Notkunarskilmálar
     nothing_to_preview: Ekkert til að forskoða.
-    help: Hjálp
-    about: Um hugbúnaðinn
-    copyright: Höfundaréttur
-    communities: Samfélög
     learn_more: Vita meira
-    more: Meira
     header:
-      select_language: Veldu tungumál
+      about: Um hugbúnaðinn
+      communities: Samfélög
+      copyright: Höfundaréttur
+      edit: Breyta
+      edit_with: Breyta með %{editor}
+      export: Flytja út
+      gps_traces: GPS ferlar
+      help: Hjálp
+      history: Breytingaskrá
+      home: Fara heim
+      issues: Vandamál
       loading: Hleð inn...
+      log_out: Skrá út
+      log_in: Skrá inn
+      more: Meira
+      select_language: Veldu tungumál
+      sign_up: Nýskrá
+      user_diaries: Blogg notenda
     select_language_button:
       title: Veldu tungumál
     offline_flash:

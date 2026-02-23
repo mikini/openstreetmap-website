@@ -1822,18 +1822,7 @@ th:
   layouts:
     logo:
       alt_text: ตราสัญลักษณ์ OpenStreetMap
-    home: กลับไปที่ตำแหน่งบ้าน
-    logout: ออกจากระบบ
-    log_in: ลงชื่อเข้าใช้
-    sign_up: สมัครบัญชี
     start_mapping: เริ่มการทำแผนที่
-    edit: แก้ไข
-    history: ประวัติ
-    export: ส่งออก
-    issues: ปัญหา
-    gps_traces: รอยทาง GPS
-    user_diaries: บันทึกของผู้ใช้
-    edit_with: แก้ไขด้วย %{editor}
     intro_header: ยินดีต้อนรับสู่ OpenStreetMap!
     intro_text: OpenStreetMap เป็นแผนที่โลกที่สร้างโดยผู้คนเช่นท่าน และใช้งานได้ไม่เสียค่าใช้จ่ายภายใต้สัญญาอนุญาตแบบเปิด
     hosting_partners_2024_html: โฮสติ้งได้รับการสนับสนุนโดย %{fastly}, %{corpmembers}
@@ -1842,15 +1831,26 @@ th:
     partners_partners: องค์กรพันธมิตร
     tou: ข้อกำหนดการใช้งาน
     nothing_to_preview: ไม่มีอะไรให้แสดงตัวอย่าง
-    help: วิธีใช้
-    about: เกี่ยวกับ
-    copyright: ลิขสิทธิ์
-    communities: ชุมชน
     learn_more: เรียนรู้เพิ่มเติม
-    more: เพิ่มเติม
     header:
-      select_language: เลือกภาษา
+      about: เกี่ยวกับ
+      communities: ชุมชน
+      copyright: ลิขสิทธิ์
+      edit: แก้ไข
+      edit_with: แก้ไขด้วย %{editor}
+      export: ส่งออก
+      gps_traces: รอยทาง GPS
+      help: วิธีใช้
+      history: ประวัติ
+      home: กลับไปที่ตำแหน่งบ้าน
+      issues: ปัญหา
       loading: กำลังโหลด...
+      log_out: ออกจากระบบ
+      log_in: ลงชื่อเข้าใช้
+      more: เพิ่มเติม
+      select_language: เลือกภาษา
+      sign_up: สมัครบัญชี
+      user_diaries: บันทึกของผู้ใช้
     select_language_button:
       title: เลือกภาษา
     offline_flash:

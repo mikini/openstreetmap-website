@@ -2022,18 +2022,7 @@ es:
     logo:
       alt_text: Logo de OpenStreetMap
     layer_info: Información de la capa
-    home: Ir a mi ubicación de casa
-    logout: Cerrar sesión
-    log_in: Iniciar sesión
-    sign_up: Registrarse
     start_mapping: Comenzar a mapear
-    edit: Editar
-    history: Historial
-    export: Exportar
-    issues: Incidencias
-    gps_traces: Trazas GPS
-    user_diaries: Diarios de usuario
-    edit_with: Editar con %{editor}
     intro_header: ¡Bienvenido a OpenStreetMap!
     intro_text: OpenStreetMap es un mapa del mundo, creado por gente como tú y de
       uso libre bajo una licencia abierta.
@@ -2044,15 +2033,26 @@ es:
     partners_partners: socios
     tou: Términos de Uso
     nothing_to_preview: Nada que previsualizar.
-    help: Ayuda
-    about: Acerca de
-    copyright: Derechos de autor
-    communities: Comunidades
     learn_more: Más información
-    more: Más
     header:
-      select_language: Seleccionar idioma
+      about: Acerca de
+      communities: Comunidades
+      copyright: Derechos de autor
+      edit: Editar
+      edit_with: Editar con %{editor}
+      export: Exportar
+      gps_traces: Trazas GPS
+      help: Ayuda
+      history: Historial
+      home: Ir a mi ubicación de casa
+      issues: Incidencias
       loading: Cargando...
+      log_out: Cerrar sesión
+      log_in: Iniciar sesión
+      more: Más
+      select_language: Seleccionar idioma
+      sign_up: Registrarse
+      user_diaries: Diarios de usuario
     meta:
       openstreetmap_search: Búsqueda en OpenStreetMap
     select_language_button:

@@ -1911,18 +1911,7 @@ da:
     logo:
       alt_text: OpenStreetMap-logo
     layer_info: Laginfo
-    home: Gå til hjemmeposition
-    logout: Log af
-    log_in: Log på
-    sign_up: Opret konto
     start_mapping: Begynd kortlægningen
-    edit: Redigér
-    history: Historik
-    export: Eksportér
-    issues: Sager
-    gps_traces: GPS-spor
-    user_diaries: Brugerblogs
-    edit_with: Redigér med %{editor}
     intro_header: Velkommen til OpenStreetMap!
     intro_text: OpenStreetMap er et kort over verden, skabt af folk som dig og gratis
       at bruge under en åben licens.
@@ -1932,16 +1921,27 @@ da:
     partners_partners: partnere
     tou: Vilkår for anvendelse
     nothing_to_preview: Intet at forhåndsvise
-    help: Hjælp
-    about: Om
-    copyright: Ophavsret
-    communities: Fællesskaber
-    donate_link: Donér
     learn_more: Lær mere
-    more: Mere
     header:
-      select_language: Vælg sprog
+      about: Om
+      communities: Fællesskaber
+      copyright: Ophavsret
+      donate: Donér
+      edit: Redigér
+      edit_with: Redigér med %{editor}
+      export: Eksportér
+      gps_traces: GPS-spor
+      help: Hjælp
+      history: Historik
+      home: Gå til hjemmeposition
+      issues: Sager
       loading: Indlæser...
+      log_out: Log af
+      log_in: Log på
+      more: Mere
+      select_language: Vælg sprog
+      sign_up: Opret konto
+      user_diaries: Brugerblogs
     meta:
       openstreetmap_search: OpenStreetMap-søgning
     select_language_button:

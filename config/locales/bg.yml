@@ -1188,29 +1188,30 @@ bg:
   layouts:
     logo:
       alt_text: Лого на OpenStreetMap
-    home: Моят дом
-    logout: Излизане
-    log_in: Влизане
-    sign_up: Регистриране
     start_mapping: Картографиране
-    edit: Променяне
-    history: История
-    export: Експортиране
-    issues: Проблеми
-    gps_traces: Следи от GPS
-    user_diaries: Потребителски дневници
-    edit_with: Променяне с %{editor}
     intro_header: Добре дошли в OpenStreetMap!
     intro_text: OpenStreetMap е карта на света създадена от хора като вас, за свободно
       ползване и под отворен лиценз.
     partners_partners: партньори
     tou: Условия за ползване
-    help: Помощ
-    about: За проекта
-    copyright: Авторски права
-    communities: Общности
     learn_more: Научете повече
-    more: Още
+    header:
+      about: За проекта
+      communities: Общности
+      copyright: Авторски права
+      edit: Променяне
+      edit_with: Променяне с %{editor}
+      export: Експортиране
+      gps_traces: Следи от GPS
+      help: Помощ
+      history: История
+      home: Моят дом
+      issues: Проблеми
+      log_out: Излизане
+      log_in: Влизане
+      more: Още
+      sign_up: Регистриране
+      user_diaries: Потребителски дневници
   user_mailer:
     diary_comment_notification:
       hi: Здравейте %{to_user},

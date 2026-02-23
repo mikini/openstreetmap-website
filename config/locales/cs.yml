@@ -1970,18 +1970,7 @@ cs:
     logo:
       alt_text: Logo OpenStreetMap
     layer_info: Informace o vrstvě
-    home: Přejít domů
-    logout: Odhlásit se
-    log_in: Přihlásit se
-    sign_up: Zaregistrovat se
     start_mapping: Začít mapovat
-    edit: Upravit
-    history: Historie
-    export: Export
-    issues: Problémy
-    gps_traces: GPS stopy
-    user_diaries: Deníky uživatelů
-    edit_with: Upravit pomocí %{editor}
     intro_header: Vítejte v OpenStreetMap!
     intro_text: OpenStreetMap je mapa světa, vytvořená lidmi jako vy a volně využitelná
       pod otevřenou licencí.
@@ -1991,16 +1980,27 @@ cs:
     partners_partners: partneři
     tou: Podmínky užití
     nothing_to_preview: Není k čemu zobrazovat náhled.
-    help: Nápověda
-    about: O projektu
-    copyright: Autorská práva
-    communities: Komunity
-    donate_link: Darujte
     learn_more: Více informací
-    more: Další
     header:
-      select_language: Zvolte si jazyk
+      about: O projektu
+      communities: Komunity
+      copyright: Autorská práva
+      donate: Darujte
+      edit: Upravit
+      edit_with: Upravit pomocí %{editor}
+      export: Export
+      gps_traces: GPS stopy
+      help: Nápověda
+      history: Historie
+      home: Přejít domů
+      issues: Problémy
       loading: Načítání...
+      log_out: Odhlásit se
+      log_in: Přihlásit se
+      more: Další
+      select_language: Zvolte si jazyk
+      sign_up: Zaregistrovat se
+      user_diaries: Deníky uživatelů
     meta:
       openstreetmap_search: Vyhledávání v OpenStreetMap
     select_language_button:

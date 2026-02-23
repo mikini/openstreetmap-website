@@ -1069,26 +1069,27 @@ gd:
   layouts:
     logo:
       alt_text: Suaicheantas OpenStreetMap
-    home: Rach gun ionad dachaigh
-    logout: Clàraich a-mach
-    log_in: Clàraich a-steach
-    sign_up: Clàraich
     start_mapping: Tòisich air an obair-mhapa
-    edit: Deasaich
-    history: Eachdraidh
-    export: Às-phortaich
-    gps_traces: Lorgaidhean GPS
-    user_diaries: Leabhraichean-latha
-    edit_with: Deasaich le %{editor}
     intro_header: Fàilte gu OpenStreetMap!
     intro_text: '''S e mapa an t-saoghail a tha san OpenStreetMap a chaidh a chruthachadh
       le daoine mar thu fhèin ''s a tha saor fo cheadachas fhosgailte.'
     partners_partners: com-pàirtichean eile
-    help: Cobhair
-    about: Mu dhèidhinn
-    copyright: Còir-lethbhreac
     learn_more: Barrachd fiosrachaidh
-    more: Barrachd
+    header:
+      about: Mu dhèidhinn
+      copyright: Còir-lethbhreac
+      edit: Deasaich
+      edit_with: Deasaich le %{editor}
+      export: Às-phortaich
+      gps_traces: Lorgaidhean GPS
+      help: Cobhair
+      history: Eachdraidh
+      home: Rach gun ionad dachaigh
+      log_out: Clàraich a-mach
+      log_in: Clàraich a-steach
+      more: Barrachd
+      sign_up: Clàraich
+      user_diaries: Leabhraichean-latha
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] Thug %{user} seachad beachd air leabhar-latha'

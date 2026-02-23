@@ -1404,28 +1404,29 @@ oc:
   layouts:
     logo:
       alt_text: Lògo d'OpenStreetMap
-    home: Anar a l'emplaçament de mon domicili
-    logout: Se desconnectar
-    log_in: Se connectar
-    sign_up: Crear un compte
     start_mapping: Començar de cartografiar
-    edit: Modificar
-    history: Istoric
-    export: Exportar
-    issues: Incidéncias
-    gps_traces: Traças GPS
-    user_diaries: Jornals
-    edit_with: Modificar amb %{editor}
     intro_header: Benvenguda dins OpenStreetMap !
     intro_text: OpenStreetMap es una mapa dau monde, creada per de personas coma vos
       e liura d’utilizacion sota licéncia liura.
     partners_partners: partenaris
     tou: Condicions d'utilizacion
-    help: Ajuda
-    about: A prepaus
-    copyright: Dreits d’autor
     learn_more: Ne saber mai
-    more: Mai
+    header:
+      about: A prepaus
+      copyright: Dreits d’autor
+      edit: Modificar
+      edit_with: Modificar amb %{editor}
+      export: Exportar
+      gps_traces: Traças GPS
+      help: Ajuda
+      history: Istoric
+      home: Anar a l'emplaçament de mon domicili
+      issues: Incidéncias
+      log_out: Se desconnectar
+      log_in: Se connectar
+      more: Mai
+      sign_up: Crear un compte
+      user_diaries: Jornals
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} a postat un comentari sus un article de jornal'

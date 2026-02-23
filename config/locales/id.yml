@@ -1606,29 +1606,30 @@ id:
   layouts:
     logo:
       alt_text: logo OpenStreetMap
-    home: Menuju ke Halaman Utama
-    logout: Keluar Log
-    log_in: Masuk Log
-    sign_up: Mendaftar
     start_mapping: Mulai Pemetaan
-    edit: Sunting
-    history: Riwayat
-    export: Ekspor
-    issues: Masalah
-    gps_traces: Jejak GPS
-    user_diaries: Catatan Harian Pengguna
-    edit_with: Sunting dengan %{editor}
     intro_header: Selamat datang di OpenStreetMap!
     intro_text: OpenStreetMap adalah peta dunia, diciptakan oleh orang-orang seperti
       Anda dan bebas untuk digunakan di bawah lisensi terbuka.
     partners_partners: mitra
     tou: Ketentuan Penggunaan
-    help: Bantuan
-    about: Tentang
-    copyright: Hak Cipta
-    communities: Komunitas
     learn_more: Pelajari Lagi
-    more: Selanjutnya
+    header:
+      about: Tentang
+      communities: Komunitas
+      copyright: Hak Cipta
+      edit: Sunting
+      edit_with: Sunting dengan %{editor}
+      export: Ekspor
+      gps_traces: Jejak GPS
+      help: Bantuan
+      history: Riwayat
+      home: Menuju ke Halaman Utama
+      issues: Masalah
+      log_out: Keluar Log
+      log_in: Masuk Log
+      more: Selanjutnya
+      sign_up: Mendaftar
+      user_diaries: Catatan Harian Pengguna
     meta:
       openstreetmap_search: Pencarian OpenStreetMap
   user_mailer:

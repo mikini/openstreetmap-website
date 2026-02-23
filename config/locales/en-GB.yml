@@ -1065,26 +1065,27 @@ en-GB:
   layouts:
     logo:
       alt_text: OpenStreetMap logo
-    home: Go to Home Location
-    logout: Log Out
-    log_in: Log In
-    sign_up: Sign Up
     start_mapping: Start Mapping
-    edit: Edit
-    history: History
-    export: Export
-    gps_traces: GPS Tracks
-    user_diaries: User Diaries
-    edit_with: Edit with %{editor}
     intro_header: Welcome to OpenStreetMap!
     intro_text: OpenStreetMap is a map of the world, created by people like you and
       free to use under an open licence.
     partners_partners: partners
-    help: Help
-    about: About
-    copyright: Copyright
     learn_more: Learn More
-    more: More
+    header:
+      about: About
+      copyright: Copyright
+      edit: Edit
+      edit_with: Edit with %{editor}
+      export: Export
+      gps_traces: GPS Tracks
+      help: Help
+      history: History
+      home: Go to Home Location
+      log_out: Log Out
+      log_in: Log In
+      more: More
+      sign_up: Sign Up
+      user_diaries: User Diaries
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} commented on a diary entry'

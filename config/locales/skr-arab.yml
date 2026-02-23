@@ -1817,18 +1817,7 @@ skr-arab:
   layouts:
     logo:
       alt_text: اوپن سٹریٹ میپ لوگو
-    home: ہوم تے ونڄو
-    logout: لاگ آؤٹ
-    log_in: لاگ ان تھیوو
-    sign_up: کھاتہ بناؤ
     start_mapping: نقشہ بݨاوݨا شروع کرو
-    edit: تبدیلی کرو
-    history: تاریخچہ
-    export: ٻاہر بھیڄو
-    issues: مسئلے
-    gps_traces: جی پی ایس دے نشان
-    user_diaries: صارف ڈائریاں
-    edit_with: '%{editor} نال تبدیلی کرو'
     intro_header: اوپن سٹریٹ میپ وچ ست بسم اللہ!
     intro_text: اوپن سٹریٹ میپ دنیا دا ہک نقشہ ہے، جیںکوں تہاݙے جاہیں لوکاں بݨایا
       ہے اَتے ہک کھلے لائسنس دے تحت استعمال کرݨ کیتے مفت ہے.
@@ -1838,15 +1827,26 @@ skr-arab:
     partners_partners: بھائیوال
     tou: ورتݨ شرطاں
     nothing_to_preview: کوئی ݙیکھݨ نئیں
-    help: مدد
-    about: تعارف
-    copyright: نقل حقوق
-    communities: برادریاں
-    donate_link: عطیہ ݙیوو
     learn_more: ٻیا سِکھو
-    more: ٻئے
     header:
+      about: تعارف
+      communities: برادریاں
+      copyright: نقل حقوق
+      donate: عطیہ ݙیوو
+      edit: تبدیلی کرو
+      edit_with: '%{editor} نال تبدیلی کرو'
+      export: ٻاہر بھیڄو
+      gps_traces: جی پی ایس دے نشان
+      help: مدد
+      history: تاریخچہ
+      home: ہوم تے ونڄو
+      issues: مسئلے
+      log_out: لاگ آؤٹ
+      log_in: لاگ ان تھیوو
+      more: ٻئے
       select_language: زبان چݨو
+      sign_up: کھاتہ بناؤ
+      user_diaries: صارف ڈائریاں
     select_language_button:
       title: زبان چݨو
     offline_flash:

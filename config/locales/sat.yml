@@ -434,22 +434,23 @@ sat:
         note:
           other_label: ᱮᱴᱟᱜ
   layouts:
-    home: ᱚᱲᱟᱜ ᱡᱟᱭᱜᱟ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
-    logout: ᱚᱰᱚᱠᱚᱜ ᱢᱮ
-    log_in: ᱵᱚᱞᱚᱜ ᱢᱮ
-    sign_up: ᱧᱩᱛᱩᱢ ᱚᱞ
     start_mapping: ᱱᱚᱠᱥᱟ ᱛᱮᱭᱟᱨ ᱮᱦᱚᱵ ᱢᱮ
-    edit: ᱥᱟᱯᱲᱟᱣ
-    history: ᱱᱟᱜᱟᱢ
-    export: ᱵᱷᱮᱡᱟ
-    user_diaries: ᱵᱮᱵᱷᱟᱨᱤᱡ ᱠᱚᱣᱟ ᱰᱟᱭᱨᱤᱠᱚ
-    edit_with: '%{editor} ᱛᱮ ᱥᱟᱯᱲᱟᱣ ᱢᱮ'
     intro_header: OpenStreetMap ᱨᱮ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!
-    help: ᱜᱚᱸᱲᱚᱸ
-    about: ᱵᱟᱵᱚᱛ
-    copyright: ᱪᱷᱟᱯᱟᱦᱚᱠ
     learn_more: ᱟᱨᱦᱚᱸ ᱪᱤᱫᱢᱮ
-    more: ᱵᱟᱹᱲᱛᱤ
+    header:
+      about: ᱵᱟᱵᱚᱛ
+      copyright: ᱪᱷᱟᱯᱟᱦᱚᱠ
+      edit: ᱥᱟᱯᱲᱟᱣ
+      edit_with: '%{editor} ᱛᱮ ᱥᱟᱯᱲᱟᱣ ᱢᱮ'
+      export: ᱵᱷᱮᱡᱟ
+      help: ᱜᱚᱸᱲᱚᱸ
+      history: ᱱᱟᱜᱟᱢ
+      home: ᱚᱲᱟᱜ ᱡᱟᱭᱜᱟ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
+      log_out: ᱚᱰᱚᱠᱚᱜ ᱢᱮ
+      log_in: ᱵᱚᱞᱚᱜ ᱢᱮ
+      more: ᱵᱟᱹᱲᱛᱤ
+      sign_up: ᱧᱩᱛᱩᱢ ᱚᱞ
+      user_diaries: ᱵᱮᱵᱷᱟᱨᱤᱡ ᱠᱚᱣᱟ ᱰᱟᱭᱨᱤᱠᱚ
   confirmations:
     confirm:
       heading: ᱟᱢᱟᱜ ᱤᱢᱮᱞ ᱡᱟᱸᱪ ᱛᱟᱢ!

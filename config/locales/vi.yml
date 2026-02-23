@@ -1784,18 +1784,7 @@ vi:
     logo:
       alt_text: Biểu trưng OpenStreetMap
     layer_info: Thông tin lớp
-    home: Về Vị trí Nhà ở
-    logout: Đăng xuất
-    log_in: Đăng nhập
-    sign_up: Mở Tài khoản
     start_mapping: Bắt đầu Đóng góp
-    edit: Sửa đổi
-    history: Lịch sử
-    export: Xuất
-    issues: Vấn đề
-    gps_traces: Tuyến GPS
-    user_diaries: Nhật ký
-    edit_with: Sửa đổi dùng %{editor}
     intro_header: Chào mừng đến với OpenStreetMap!
     intro_text: OpenStreetMap là bản đồ thế giới do những người như bạn xây dựng và
       cho phép sử dụng thoải mái theo một giấy phép nguồn mở.
@@ -1805,16 +1794,27 @@ vi:
     partners_partners: các công ty bảo trợ
     tou: Điều khoản sử dụng
     nothing_to_preview: Không có gì để xem trước.
-    help: Trợ giúp
-    about: Giới thiệu
-    copyright: Bản quyền
-    communities: Cộng đồng
-    donate_link: Quyên góp
     learn_more: Tìm hiểu Thêm
-    more: Thêm
     header:
-      select_language: Chọn Ngôn ngữ
+      about: Giới thiệu
+      communities: Cộng đồng
+      copyright: Bản quyền
+      donate: Quyên góp
+      edit: Sửa đổi
+      edit_with: Sửa đổi dùng %{editor}
+      export: Xuất
+      gps_traces: Tuyến GPS
+      help: Trợ giúp
+      history: Lịch sử
+      home: Về Vị trí Nhà ở
+      issues: Vấn đề
       loading: Đang tải…
+      log_out: Đăng xuất
+      log_in: Đăng nhập
+      more: Thêm
+      select_language: Chọn Ngôn ngữ
+      sign_up: Mở Tài khoản
+      user_diaries: Nhật ký
     meta:
       openstreetmap_search: Tìm kiếm OpenStreetMap
     select_language_button:

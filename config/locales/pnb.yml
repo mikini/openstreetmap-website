@@ -1123,28 +1123,29 @@ pnb:
       title: اوپن سٹریٹ میپ
     logo:
       alt_text: اوپن سٹریٹ میپ دا لوگو
-    home: گھریلو ٹکاݨے تے جاؤ
-    logout: لوگ‌آؤٹ کرو
-    log_in: لَوگ اِین کرو
-    sign_up: بھرتی ہووو
     start_mapping: نکشابندی شُرو کرو
-    edit: سودھو
-    history: تریخ
-    export: برامد کرو
-    issues: مسئلے
-    gps_traces: کھرے کھوجاں
-    user_diaries: روزنامچے
-    edit_with: '%{editor} نال سودھو'
     intro_header: اوپن سٹریٹ میپ تے سواگت اے!
     partners_fastly: فَیستلی
     partners_partners: جوڑیدار
     tou: ورتن شرطاں
-    help: مدد
-    about: بارے
-    copyright: نکل حق
-    communities: مجلساں
     learn_more: ہور سکھو
-    more: ہور
+    header:
+      about: بارے
+      communities: مجلساں
+      copyright: نکل حق
+      edit: سودھو
+      edit_with: '%{editor} نال سودھو'
+      export: برامد کرو
+      gps_traces: کھرے کھوجاں
+      help: مدد
+      history: تریخ
+      home: گھریلو ٹکاݨے تے جاؤ
+      issues: مسئلے
+      log_out: لوگ‌آؤٹ کرو
+      log_in: لَوگ اِین کرو
+      more: ہور
+      sign_up: بھرتی ہووو
+      user_diaries: روزنامچے
   user_mailer:
     diary_comment_notification:
       subject: '[⁠اوایس‌ایم⁠] روزنامچے تے «⁠%{user}⁠» ٹپݨی کیتے'

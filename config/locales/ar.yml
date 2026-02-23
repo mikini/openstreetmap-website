@@ -1562,31 +1562,31 @@ ar:
       title: خريطة الشارع المفتوحة
     logo:
       alt_text: شعار خريطة الشارع المفتوحة
-    home: اذهب إلى الصفحة الرئيسية
-    logout: تسجيل الخروج
-    log_in: تسجيل الدخول
-    sign_up: أنشئ حسابًا
     start_mapping: ابدأ التخطيط
-    edit: تعديل
-    history: تاريخ
-    export: صدِّر
-    issues: المشاكل
-    gps_traces: آثار جي بي أس
-    user_diaries: يوميات المستخدمين
-    edit_with: حرر باستعمال %{editor}
     intro_header: مرحبا بكم في خريطة الشارع المفتوحة!
     intro_text: خريطة الشارع المفتوحة هي خريطة العالم، أُنشِئت بواسطة أشخاص مثلك وحرة
       الاستخدام برخصة مفتوحة.
     partners_partners: الشركاء
     tou: شروط الاستخدام
-    help: مساعدة
-    about: حول
-    copyright: حقوق النسخ
-    communities: مجتمعات
     learn_more: التعرف على المزيد
-    more: المزيد
     header:
+      about: حول
+      communities: مجتمعات
+      copyright: حقوق النسخ
+      edit: تعديل
+      edit_with: حرر باستعمال %{editor}
+      export: صدِّر
+      gps_traces: آثار جي بي أس
+      help: مساعدة
+      history: تاريخ
+      home: اذهب إلى الصفحة الرئيسية
+      issues: المشاكل
       loading: تحميل...
+      log_out: تسجيل الخروج
+      log_in: تسجيل الدخول
+      more: المزيد
+      sign_up: أنشئ حسابًا
+      user_diaries: يوميات المستخدمين
   user_mailer:
     diary_comment_notification:
       subject: '[خريطة الشارع المفتوحة] %{user} علق على مدخلتك في اليومية'

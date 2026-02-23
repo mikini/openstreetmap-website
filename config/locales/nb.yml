@@ -1330,31 +1330,31 @@ nb:
   layouts:
     logo:
       alt_text: OpenStreetMap-logo
-    home: Gå til din brukers hjemmeadresse
-    logout: Logg ut
-    log_in: Logg inn
-    sign_up: Registrer deg
     start_mapping: Start kartlegging
-    edit: Rediger
-    history: Historikk
-    export: Eksporter
-    issues: Problemer
-    gps_traces: GPS-spor
-    user_diaries: Brukerdagbok
-    edit_with: Rediger med %{editor}
     intro_header: Velkommen til OpenStreetMap!
     intro_text: OpenStreetMap er et kart over verden, skapt av mennesker som deg,
       og gratis å bruke under en åpen lisens.
     partners_partners: partnere
     tou: Bruksvilkår
-    help: Hjelp
-    about: Om
-    copyright: Opphavsrett
-    communities: Fellesskap
     learn_more: Lær mer
-    more: Mer
     header:
+      about: Om
+      communities: Fellesskap
+      copyright: Opphavsrett
+      edit: Rediger
+      edit_with: Rediger med %{editor}
+      export: Eksporter
+      gps_traces: GPS-spor
+      help: Hjelp
+      history: Historikk
+      home: Gå til din brukers hjemmeadresse
+      issues: Problemer
+      log_out: Logg ut
+      log_in: Logg inn
+      more: Mer
       select_language: Velg språk
+      sign_up: Registrer deg
+      user_diaries: Brukerdagbok
     select_language_button:
       title: Velg språk
   user_mailer:

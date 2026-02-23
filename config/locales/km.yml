@@ -575,17 +575,18 @@ km:
         waterway:
           canal: ព្រែកជីក
   layouts:
-    logout: កត់ឈ្មោះចេញ
-    log_in: កត់ឈ្មោះចូល
-    sign_up: ចុះឈ្មោះ​ចូល
-    edit: កែប្រែ​
-    history: ប្រវត្តិ​
-    export: នាំចេញ​
-    help: ជំនួយ
-    about: អំពី
-    copyright: រក្សាសិទ្ឋ
     learn_more: ស្វែងយល់បន្ថែម
-    more: ផ្សេងទៀត
+    header:
+      about: អំពី
+      copyright: រក្សាសិទ្ឋ
+      edit: កែប្រែ​
+      export: នាំចេញ​
+      help: ជំនួយ
+      history: ប្រវត្តិ​
+      log_out: កត់ឈ្មោះចេញ
+      log_in: កត់ឈ្មោះចូល
+      more: ផ្សេងទៀត
+      sign_up: ចុះឈ្មោះ​ចូល
   user_mailer:
     diary_comment_notification:
       hi: សួស្ដី %{to_user},

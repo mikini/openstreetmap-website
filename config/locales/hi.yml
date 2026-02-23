@@ -856,15 +856,16 @@ hi:
         note:
           other_label: अन्य
   layouts:
-    home: गृह
-    sign_up: खाता बनाएं
     start_mapping: नक्षा बनाना शुरू करें
-    edit: बदलें
-    history: इतिहास
-    export: निर्यात
-    issues: समस्याएं
-    help: सहायता
-    donate_link: दान करें
+    header:
+      donate: दान करें
+      edit: बदलें
+      export: निर्यात
+      help: सहायता
+      history: इतिहास
+      home: गृह
+      issues: समस्याएं
+      sign_up: खाता बनाएं
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} ने एक दैनिकी पर प्रतिक्रिया दी'

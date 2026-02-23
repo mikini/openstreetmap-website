@@ -1257,29 +1257,29 @@ sq:
   layouts:
     logo:
       alt_text: Logoja e OpenStreetMap
-    logout: Dil
-    log_in: Hyr
-    sign_up: Krijo llogari
     start_mapping: Fillo hartografimin
-    edit: Redakto
-    history: Historia
-    export: Eksporto
-    issues: Problemet
-    gps_traces: Gjurmët GPS
-    user_diaries: Ditarët e përdoruesit
-    edit_with: Redakto me %{editor}
     intro_header: Mirësevjen në OpenStreetMap!
     intro_text: OpenStreetMap është hartë e botës, e krijuar nga njerëz si ti dhe
       për përdorim të lirshëm në kuadrin e një licence të hapur.
     partners_partners: partnerët
-    help: Ndihma
-    about: Rreth
-    copyright: Të drejtat e autorit
-    communities: Komunitetet
     learn_more: Mëso më shumë
-    more: Më shumë
     header:
+      about: Rreth
+      communities: Komunitetet
+      copyright: Të drejtat e autorit
+      edit: Redakto
+      edit_with: Redakto me %{editor}
+      export: Eksporto
+      gps_traces: Gjurmët GPS
+      help: Ndihma
+      history: Historia
+      issues: Problemet
+      log_out: Dil
+      log_in: Hyr
+      more: Më shumë
       select_language: Zgjidh gjuhën
+      sign_up: Krijo llogari
+      user_diaries: Ditarët e përdoruesit
     select_language_button:
       title: Zgjidh gjuhën
     offline_flash:

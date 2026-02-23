@@ -1475,32 +1475,32 @@ nn:
     logo:
       alt_text: OpenStreetMap-logo
     layer_info: Laginfo
-    home: Gå til heimstaden din
-    logout: Logg ut
-    log_in: Logg inn
-    sign_up: Registrer deg
     start_mapping: Start kartlegging
-    edit: Rediger
-    history: Historikk
-    export: Eksporter
-    issues: Problem
-    gps_traces: GPS-spor
-    user_diaries: Brukardagbok
-    edit_with: Rediger med %{editor}
     intro_header: Velkomen til OpenStreetMap!
     intro_text: OpenStreetMap er eit verdskart, laga av folk som deg. Kartet er gratis
       å bruke under ein open lisens.
     partners_partners: partnarar
     tou: Bruksvilkår
-    help: Hjelp
-    about: Om
-    copyright: Opphavsrett
-    communities: Fellesskap
     learn_more: Les meir
-    more: Meir
     header:
-      select_language: Vel språk
+      about: Om
+      communities: Fellesskap
+      copyright: Opphavsrett
+      edit: Rediger
+      edit_with: Rediger med %{editor}
+      export: Eksporter
+      gps_traces: GPS-spor
+      help: Hjelp
+      history: Historikk
+      home: Gå til heimstaden din
+      issues: Problem
       loading: Lastar …
+      log_out: Logg ut
+      log_in: Logg inn
+      more: Meir
+      select_language: Vel språk
+      sign_up: Registrer deg
+      user_diaries: Brukardagbok
     select_language_button:
       title: Vel språk
   user_mailer:

@@ -609,16 +609,17 @@ aln:
   layouts:
     logo:
       alt_text: logo e OpenStreetMap
-    home: shtëpi
-    logout: logout
-    log_in: log in
-    sign_up: regjistrohu
-    edit: Ndrysho
-    history: Historia
-    export: Eksport
-    gps_traces: GPS Gjurmët
-    user_diaries: Përdoruesi Diaries
-    copyright: Copyright & License
+    header:
+      copyright: Copyright & License
+      edit: Ndrysho
+      export: Eksport
+      gps_traces: GPS Gjurmët
+      history: Historia
+      home: shtëpi
+      log_out: logout
+      log_in: log in
+      sign_up: regjistrohu
+      user_diaries: Përdoruesi Diaries
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} ka komentu në shënimin tond të ditarit'

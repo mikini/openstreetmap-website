@@ -1560,18 +1560,7 @@ lt:
   layouts:
     logo:
       alt_text: OpenStreetMap logotipas
-    home: Eiti į namų vietą
-    logout: Atsijungti
-    log_in: Prisijungti
-    sign_up: Užsiregistruoti
     start_mapping: Pradėti žymėjimą
-    edit: Keisti
-    history: Istorija
-    export: Eksportuoti
-    issues: Problemos
-    gps_traces: GPS pėdsakai
-    user_diaries: Dienoraščiai
-    edit_with: Redaguoti su %{editor}
     intro_header: Sveiki atvykę į OpenStreetMap!
     intro_text: OpenStreetMap yra pasaulio žemėlapis, kuriamas žmonių, tokių kaip
       jūs. Jis atviras ir laisvas - naudojamas pagal atvirą licenciją.
@@ -1581,12 +1570,24 @@ lt:
     partners_partners: partneriai
     tou: Naudojimo sąlygos
     nothing_to_preview: Nėra ką peržiūrėti.
-    help: Pagalba
-    about: Apie
-    copyright: Teisės ir licencija
-    communities: Bendruomenės
     learn_more: Sužinoti daugiau
-    more: Daugiau
+    header:
+      about: Apie
+      communities: Bendruomenės
+      copyright: Teisės ir licencija
+      edit: Keisti
+      edit_with: Redaguoti su %{editor}
+      export: Eksportuoti
+      gps_traces: GPS pėdsakai
+      help: Pagalba
+      history: Istorija
+      home: Eiti į namų vietą
+      issues: Problemos
+      log_out: Atsijungti
+      log_in: Prisijungti
+      more: Daugiau
+      sign_up: Užsiregistruoti
+      user_diaries: Dienoraščiai
   user_mailer:
     diary_comment_notification:
       description: 'OpenStreetMap dienoraščio įrašas #%{id}'

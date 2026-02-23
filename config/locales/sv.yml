@@ -1933,18 +1933,7 @@ sv:
     logo:
       alt_text: OpenStreetMaps logotyp
     layer_info: Lagerinformation
-    home: Gå till hemposition
-    logout: Logga ut
-    log_in: Logga in
-    sign_up: Registrera
     start_mapping: Börja kartlägga
-    edit: Redigera
-    history: Historik
-    export: Exportera
-    issues: Ärenden
-    gps_traces: GPS-spår
-    user_diaries: Användardagböcker
-    edit_with: Redigera med %{editor}
     intro_header: Välkommen till OpenStreetMap!
     intro_text: OpenStreetMap är en karta över världen, skapad av människor som du
       och fri att använda under en öppen licens.
@@ -1954,16 +1943,27 @@ sv:
     partners_partners: partners
     tou: Användarvillkor
     nothing_to_preview: Ingenting att förhandsvisa.
-    help: Hjälp
-    about: Om
-    copyright: Upphovsrätt
-    communities: Gemenskaper
-    donate_link: Donera
     learn_more: Läs mer
-    more: Mer
     header:
-      select_language: Välj språk
+      about: Om
+      communities: Gemenskaper
+      copyright: Upphovsrätt
+      donate: Donera
+      edit: Redigera
+      edit_with: Redigera med %{editor}
+      export: Exportera
+      gps_traces: GPS-spår
+      help: Hjälp
+      history: Historik
+      home: Gå till hemposition
+      issues: Ärenden
       loading: Läser in...
+      log_out: Logga ut
+      log_in: Logga in
+      more: Mer
+      select_language: Välj språk
+      sign_up: Registrera
+      user_diaries: Användardagböcker
     meta:
       openstreetmap_search: OpenStreetMap-sökning
     select_language_button:

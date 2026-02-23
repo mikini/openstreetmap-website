@@ -1381,28 +1381,29 @@ te:
   layouts:
     logo:
       alt_text: ఓపెన్&zwnj;స్ట్రీట్&zwnj;మాప్ చిహ్నం
-    home: నివాస ప్రాంతానికి వెళ్ళు
-    logout: నిష్క్రమించండి
-    log_in: ప్రవేశించండి
-    sign_up: నమోదవ్వండి
     start_mapping: మ్యాపింగు మొదలుపెట్టండి
-    edit: మార్చు
-    history: చరిత్ర
-    export: ఎగుమతి
-    issues: అంశాలు
-    gps_traces: GPS జాడలు
-    user_diaries: వాడుకరి డైరీలు
-    edit_with: '%{editor} తో సవరించండి'
     intro_header: ఓపెన్‌స్ట్రీట్‌మ్యాప్‌కి స్వాగతం!
     intro_text: OpenStreetMap, ఓ ప్రపంచ మ్యాపు. మీలాంటి వారే దీన్ని తయారు చేసారు.
       స్వేచ్ఛా లైసెన్సు ద్వారా స్వేచ్ఛగా దీన్ని వాడుకోవచ్చు.
     partners_partners: భాగస్వాములు
     tou: వాడుక నియమాలు
-    help: సహాయం
-    about: గురించి
-    copyright: నకలుహక్కులు
     learn_more: మరింత తెలుసుకోండి
-    more: మరిన్ని
+    header:
+      about: గురించి
+      copyright: నకలుహక్కులు
+      edit: మార్చు
+      edit_with: '%{editor} తో సవరించండి'
+      export: ఎగుమతి
+      gps_traces: GPS జాడలు
+      help: సహాయం
+      history: చరిత్ర
+      home: నివాస ప్రాంతానికి వెళ్ళు
+      issues: అంశాలు
+      log_out: నిష్క్రమించండి
+      log_in: ప్రవేశించండి
+      more: మరిన్ని
+      sign_up: నమోదవ్వండి
+      user_diaries: వాడుకరి డైరీలు
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} ఒక డైరీ పద్దుపై వ్యాఖ్యానించారు'

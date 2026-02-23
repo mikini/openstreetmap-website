@@ -1941,18 +1941,7 @@ sl:
     logo:
       alt_text: OpenStreetMap logotip
     layer_info: Informacije o sloju
-    home: Domov
-    logout: Odjava
-    log_in: Prijava
-    sign_up: Ustvari račun
     start_mapping: Začnite kartirati
-    edit: Uredi
-    history: Zgodovina
-    export: Izvozi
-    issues: Težave
-    gps_traces: Sledi GPS
-    user_diaries: Dnevnik
-    edit_with: Za urejanje uporabi %{editor}
     intro_header: Pozdravljeni v OpenStreetMap!
     intro_text: OpenStreetMap je zemljevid sveta, ki ga ustvarjajo ljudje, kot ste
       vi, in brezplačen za uporabo pod odprto licenco.
@@ -1962,15 +1951,26 @@ sl:
     partners_partners: partnerji
     tou: Pogoji uporabe
     nothing_to_preview: Ničesar ni za predogled.
-    help: Pomoč
-    about: O projektu
-    copyright: Avtorske pravice
-    communities: Skupnosti
     learn_more: Več o tem
-    more: Več
     header:
-      select_language: Izberite jezik
+      about: O projektu
+      communities: Skupnosti
+      copyright: Avtorske pravice
+      edit: Uredi
+      edit_with: Za urejanje uporabi %{editor}
+      export: Izvozi
+      gps_traces: Sledi GPS
+      help: Pomoč
+      history: Zgodovina
+      home: Domov
+      issues: Težave
       loading: Nalaganje ...
+      log_out: Odjava
+      log_in: Prijava
+      more: Več
+      select_language: Izberite jezik
+      sign_up: Ustvari račun
+      user_diaries: Dnevnik
     meta:
       openstreetmap_search: Iskanje po OpenStreetMap
     select_language_button:

@@ -1545,29 +1545,30 @@ eu:
   layouts:
     logo:
       alt_text: OpenStreetMap logoa
-    home: Hasierara joan
-    logout: Itxi saioa
-    log_in: Saioa hasi
-    sign_up: Eman izena
     start_mapping: Hasi mapeatzen
-    edit: Aldatu
-    history: Historia
-    export: Esportatu
-    issues: Arazoak
-    gps_traces: GPS Aztarnak
-    user_diaries: Erabiltzaileen egunerokoak
-    edit_with: '%{editor}rekin editatu'
     intro_header: Ongi etorri OpenStreetMap-era!
     intro_text: OpenStreetMap munduko mapa da, zu bezalako jendeak sortutakoa eta
       doako lizentzia irekiarekin erabiltzeko dagoena.
     partners_partners: bazkideak
     tou: Erabilera-baldintzak
-    help: Laguntza
-    about: Honi buruz
-    copyright: Egile-eskubideak
-    communities: Komunitateak
     learn_more: Ikasi gehiago
-    more: Gehiago
+    header:
+      about: Honi buruz
+      communities: Komunitateak
+      copyright: Egile-eskubideak
+      edit: Aldatu
+      edit_with: '%{editor}rekin editatu'
+      export: Esportatu
+      gps_traces: GPS Aztarnak
+      help: Laguntza
+      history: Historia
+      home: Hasierara joan
+      issues: Arazoak
+      log_out: Itxi saioa
+      log_in: Saioa hasi
+      more: Gehiago
+      sign_up: Eman izena
+      user_diaries: Erabiltzaileen egunerokoak
   user_mailer:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} eguneroko sarrera batean iruzkina utzi du'
