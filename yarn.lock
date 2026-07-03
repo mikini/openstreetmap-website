@@ -296,10 +296,10 @@
   resolved "https://registry.yarnpkg.com/@maptiler/maplibre-gl-omt-language/-/maplibre-gl-omt-language-0.0.3.tgz#3069f4522e911e341d6b79b09ce2943c71b6ffd7"
   integrity sha512-Rv5IaFyh9GuFu2BEAGvVvlVGmXt5Jbjd0XhIu0D4Tek81DPQEQryIIwDFTDR27W4NyAtozy8QltB+8SFr2C7mQ==
 
-"@openstreetmap/id@2.41.0":
-  version "2.41.0"
-  resolved "https://registry.yarnpkg.com/@openstreetmap/id/-/id-2.41.0.tgz#47239425471a4fd3e3951641efb3951b1b2b0299"
-  integrity sha512-osY4VTgYw6OPULcEu4EKPSt/J6fu3zPlDYiO7shof3rkbg25xMG/X2Ap2+K4edd2d93GbDaUAW+AJGLGXBIRtA==
+"@openstreetmap/id@2.41.2":
+  version "2.41.2"
+  resolved "https://registry.yarnpkg.com/@openstreetmap/id/-/id-2.41.2.tgz#6e8a9132fe43dd4af82ab6ef0a2ed2c0f090c4e8"
+  integrity sha512-aj5/EN9G/jdS2O+Wr8HmrTjxlK9NrnbFl3rTXL61Y3rre4Oe8N0uTyUT5YoXC72N72J6MwgRFwFxIPcPkgntUw==
   dependencies:
     "@mapbox/geojson-area" "^0.2.2"
     "@mapbox/sexagesimal" "1.2.0"
@@ -670,9 +670,9 @@ eslint-visitor-keys@^5.0.1:
   integrity sha512-tD40eHxA35h0PEIZNeIjkHoDR4YjjJp34biM0mDvplBe//mB+IHCqHDGV7pxF+7MklTvighcCPPZC7ynWyjdTA==
 
 eslint@^10.0.0:
-  version "10.5.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-10.5.0.tgz#5fca69d6b41fe7e00ba22d4100b2e44efe439ad5"
-  integrity sha512-1y+7C+vi12bUK1IpZeaV3gsH9fHLBmPvYmPx42pvT/E9yG0IC8g3PUZZgp0+JLJl7ZDK0flc2gc+Aw9dpCvIsQ==
+  version "10.6.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-10.6.0.tgz#e1b4059c582be950c7088c9b55f984738b243c27"
+  integrity sha512-6lVbcqSodALYo+4ELD0heG6lFiFxnLMuLkiMi2qV8LMp54N8tE8FT1GMH+ev4Ti00nFjNze2+Su6DsV5OQW3Dg==
   dependencies:
     "@eslint-community/eslint-utils" "^4.8.0"
     "@eslint-community/regexpp" "^4.12.2"
@@ -838,9 +838,9 @@ glob-parent@^6.0.2:
     is-glob "^4.0.3"
 
 globals@^17.3.0:
-  version "17.6.0"
-  resolved "https://registry.yarnpkg.com/globals/-/globals-17.6.0.tgz#0f0be018d5cca8690e6375ead1f65c4bb96191fc"
-  integrity sha512-sepffkT8stwnIYbsMBpoCHJuJM5l98FUF2AnE07hfvE0m/qp3R586hw4jF4uadbhvg1ooIdzuu7CsfD2jzCaNA==
+  version "17.7.0"
+  resolved "https://registry.yarnpkg.com/globals/-/globals-17.7.0.tgz#553d55090b4dde8209ec2da42580d6e7e7d8b10d"
+  integrity sha512-Czmyns5dUsq4seFBR/Kdydhmo8y9kC79hiSkPn0YcGtNnYWnrgt0vjrSjx9tspoDGWm2CMarffRuLjM4xUz8xg==
 
 hard-rejection@^2.1.0:
   version "2.1.0"
@@ -1530,9 +1530,9 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 tag2link@^2026.1.21:
-  version "2026.5.21"
-  resolved "https://registry.yarnpkg.com/tag2link/-/tag2link-2026.5.21.tgz#208873dd10f54091382494219fb8680cf389ff2a"
-  integrity sha512-9slAXVEymJ1pYYhN6eVvF1oyEgO65e8RV/JkeM0+USGe3HSRVJC4VRlJTWysGNQgDxJBTZOXCcBQhpG46QAXPw==
+  version "2026.6.26"
+  resolved "https://registry.yarnpkg.com/tag2link/-/tag2link-2026.6.26.tgz#2d37fe961a73f8e469e6103d47d2d7f3c3a4388e"
+  integrity sha512-3HXYkASxzeCidEnbY6b3LZ+oN6tKFOK1kHWgaxpLt2zONwn64r7EEInRxmBXGMreMJm2OJH0TMBFwqjdaIDNZA==
 
 tinyglobby@^0.2.15, tinyglobby@^0.2.16:
   version "0.2.16"
